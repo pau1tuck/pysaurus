@@ -1,0 +1,677 @@
+[
+  {
+    "data": [
+      {
+        "antonyms": [],
+        "definition": "leaven",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "fungus" },
+          { "isInformal": 0, "similarity": 50, "term": "ferment" },
+          { "isInformal": 0, "similarity": 50, "term": "leavening" }
+        ]
+      },
+      {
+        "antonyms": [],
+        "definition": "foam",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "froth" },
+          { "isInformal": 0, "similarity": 50, "term": "lather" },
+          { "isInformal": 0, "similarity": 50, "term": "spume" }
+        ]
+      },
+      {
+        "antonyms": [],
+        "definition": "rising agent",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "fungus" },
+          { "isInformal": 0, "similarity": 50, "term": "catalyst" },
+          { "isInformal": 0, "similarity": 50, "term": "foam" },
+          { "isInformal": 0, "similarity": 50, "term": "froth" },
+          { "isInformal": 0, "similarity": 50, "term": "leavening" },
+          { "isInformal": 0, "similarity": 10, "term": "fermenter" }
+        ]
+      }
+    ],
+    "term": "yeast"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "seriousness" }
+        ],
+        "definition": "loud communication",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "hoot" },
+          { "isInformal": 0, "similarity": 100, "term": "howl" },
+          { "isInformal": 0, "similarity": 100, "term": "screech" },
+          { "isInformal": 0, "similarity": 100, "term": "shriek" },
+          { "isInformal": 0, "similarity": 100, "term": "squawk" },
+          { "isInformal": 0, "similarity": 100, "term": "squeal" },
+          { "isInformal": 0, "similarity": 100, "term": "wail" },
+          { "isInformal": 0, "similarity": 100, "term": "whoop" },
+          { "isInformal": 0, "similarity": 100, "term": "yelp" },
+          { "isInformal": 0, "similarity": 50, "term": "bawl" },
+          { "isInformal": 0, "similarity": 50, "term": "bellow" },
+          { "isInformal": 0, "similarity": 50, "term": "call" },
+          { "isInformal": 0, "similarity": 50, "term": "cheer" },
+          { "isInformal": 0, "similarity": 50, "term": "complain" },
+          { "isInformal": 0, "similarity": 50, "term": "cry" },
+          { "isInformal": 0, "similarity": 50, "term": "holler" },
+          { "isInformal": 0, "similarity": 50, "term": "lament" },
+          { "isInformal": 0, "similarity": 50, "term": "roar" },
+          { "isInformal": 0, "similarity": 50, "term": "scream" },
+          { "isInformal": 0, "similarity": 50, "term": "shout" },
+          { "isInformal": 0, "similarity": 50, "term": "shrill" },
+          { "isInformal": 0, "similarity": 50, "term": "ululate" },
+          { "isInformal": 0, "similarity": 50, "term": "vociferate" },
+          { "isInformal": 0, "similarity": 50, "term": "weep" },
+          { "isInformal": 0, "similarity": 50, "term": "yap" },
+          { "isInformal": 0, "similarity": 50, "term": "yip" }
+        ]
+      },
+      {
+        "antonyms": [{ "isInformal": 0, "similarity": -50, "term": "praise" }],
+        "definition": "communicate loudly",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "hoot" },
+          { "isInformal": 0, "similarity": 100, "term": "howl" },
+          { "isInformal": 0, "similarity": 100, "term": "screech" },
+          { "isInformal": 0, "similarity": 100, "term": "shriek" },
+          { "isInformal": 0, "similarity": 100, "term": "squawk" },
+          { "isInformal": 0, "similarity": 100, "term": "squeal" },
+          { "isInformal": 0, "similarity": 100, "term": "wail" },
+          { "isInformal": 0, "similarity": 100, "term": "whoop" },
+          { "isInformal": 0, "similarity": 100, "term": "yelp" },
+          { "isInformal": 0, "similarity": 50, "term": "bawl" },
+          { "isInformal": 0, "similarity": 50, "term": "bellow" },
+          { "isInformal": 0, "similarity": 50, "term": "call" },
+          { "isInformal": 0, "similarity": 50, "term": "cheer" },
+          { "isInformal": 0, "similarity": 50, "term": "complain" },
+          { "isInformal": 0, "similarity": 50, "term": "cry" },
+          { "isInformal": 0, "similarity": 50, "term": "holler" },
+          { "isInformal": 0, "similarity": 50, "term": "lament" },
+          { "isInformal": 0, "similarity": 50, "term": "roar" },
+          { "isInformal": 0, "similarity": 50, "term": "scream" },
+          { "isInformal": 0, "similarity": 50, "term": "shout" },
+          { "isInformal": 0, "similarity": 50, "term": "shrill" },
+          { "isInformal": 0, "similarity": 50, "term": "ululate" },
+          { "isInformal": 0, "similarity": 50, "term": "vociferate" },
+          { "isInformal": 0, "similarity": 50, "term": "weep" },
+          { "isInformal": 0, "similarity": 50, "term": "yap" },
+          { "isInformal": 0, "similarity": 50, "term": "yip" }
+        ]
+      }
+    ],
+    "term": "yell"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "brave" },
+          { "isInformal": 0, "similarity": -50, "term": "bold" },
+          { "isInformal": 0, "similarity": -10, "term": "confident" },
+          { "isInformal": 0, "similarity": -10, "term": "strong" }
+        ],
+        "definition": "cowardly",
+        "isInformal": "1",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "chicken" },
+          { "isInformal": 0, "similarity": 50, "term": "craven" },
+          { "isInformal": 0, "similarity": 50, "term": "sneaking" },
+          { "isInformal": 0, "similarity": 10, "term": "deceitful" },
+          { "isInformal": 0, "similarity": 10, "term": "gutless" },
+          { "isInformal": 0, "similarity": 10, "term": "lily-livered" },
+          { "isInformal": 0, "similarity": 10, "term": "pusillanimous" },
+          { "isInformal": 0, "similarity": 10, "term": "treacherous" }
+        ]
+      },
+      {
+        "antonyms": [],
+        "definition": "sunny colored",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "amber" },
+          { "isInformal": 0, "similarity": 50, "term": "bisque" },
+          { "isInformal": 0, "similarity": 50, "term": "blond" },
+          { "isInformal": 0, "similarity": 50, "term": "buff" },
+          { "isInformal": 0, "similarity": 50, "term": "chrome" },
+          { "isInformal": 0, "similarity": 50, "term": "cream" },
+          { "isInformal": 0, "similarity": 50, "term": "gold" },
+          { "isInformal": 0, "similarity": 50, "term": "ivory" },
+          { "isInformal": 0, "similarity": 50, "term": "lemon" },
+          { "isInformal": 0, "similarity": 50, "term": "saffron" },
+          { "isInformal": 0, "similarity": 10, "term": "tawny" },
+          { "isInformal": 0, "similarity": 10, "term": "xanthous" }
+        ]
+      },
+      {
+        "antonyms": [],
+        "definition": "sunny color",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "amber" },
+          { "isInformal": 0, "similarity": 50, "term": "bisque" },
+          { "isInformal": 0, "similarity": 50, "term": "blond" },
+          { "isInformal": 0, "similarity": 50, "term": "buff" },
+          { "isInformal": 0, "similarity": 50, "term": "chrome" },
+          { "isInformal": 0, "similarity": 50, "term": "cream" },
+          { "isInformal": 0, "similarity": 50, "term": "gold" },
+          { "isInformal": 0, "similarity": 50, "term": "ivory" },
+          { "isInformal": 0, "similarity": 50, "term": "lemon" },
+          { "isInformal": 0, "similarity": 50, "term": "saffron" },
+          { "isInformal": 0, "similarity": 50, "term": "sand" },
+          { "isInformal": 0, "similarity": 10, "term": "tawny" },
+          { "isInformal": 0, "similarity": 10, "term": "xanthous" }
+        ]
+      }
+    ],
+    "term": "yellow"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "tomorrow" }
+        ],
+        "definition": "the day before today",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "bygone" },
+          { "isInformal": 0, "similarity": 50, "term": "past" },
+          { "isInformal": 0, "similarity": 10, "term": "Last Day" },
+          { "isInformal": 0, "similarity": 10, "term": "foretime" },
+          { "isInformal": 0, "similarity": 10, "term": "lang syne" },
+          { "isInformal": 0, "similarity": 10, "term": "not long ago" },
+          { "isInformal": 0, "similarity": 10, "term": "recently" },
+          { "isInformal": 0, "similarity": 10, "term": "the other day" }
+        ]
+      }
+    ],
+    "term": "yesterday"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [],
+        "definition": "up until now",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "as yet" },
+          { "isInformal": 0, "similarity": 100, "term": "thus far" },
+          { "isInformal": 0, "similarity": 100, "term": "to date" },
+          { "isInformal": 0, "similarity": 100, "term": "until now" },
+          { "isInformal": 0, "similarity": 100, "term": "up to now" },
+          { "isInformal": 0, "similarity": 50, "term": "so far" },
+          { "isInformal": 0, "similarity": 50, "term": "still" },
+          { "isInformal": 0, "similarity": 10, "term": "hitherto" }
+        ]
+      },
+      {
+        "antonyms": [],
+        "definition": "though the case be such",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "even so" },
+          { "isInformal": 0, "similarity": 100, "term": "however" },
+          { "isInformal": 0, "similarity": 100, "term": "in spite of that" },
+          { "isInformal": 0, "similarity": 100, "term": "nevertheless" },
+          { "isInformal": 0, "similarity": 100, "term": "nonetheless" },
+          { "isInformal": 0, "similarity": 100, "term": "notwithstanding" },
+          { "isInformal": 0, "similarity": 100, "term": "still" },
+          { "isInformal": 0, "similarity": 50, "term": "all the same" },
+          { "isInformal": 0, "similarity": 50, "term": "be that as it may" },
+          { "isInformal": 0, "similarity": 50, "term": "for all that" },
+          { "isInformal": 0, "similarity": 50, "term": "just the same" },
+          { "isInformal": 0, "similarity": 10, "term": "but" },
+          { "isInformal": 0, "similarity": 10, "term": "howbeit" },
+          { "isInformal": 0, "similarity": 10, "term": "still and all" },
+          { "isInformal": 0, "similarity": 10, "term": "withal" }
+        ]
+      },
+      {
+        "antonyms": [],
+        "definition": "in addition",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "in addition" },
+          { "isInformal": 0, "similarity": 100, "term": "besides" },
+          { "isInformal": 0, "similarity": 100, "term": "further" },
+          { "isInformal": 0, "similarity": 50, "term": "again" },
+          { "isInformal": 0, "similarity": 50, "term": "into the bargain" },
+          { "isInformal": 0, "similarity": 50, "term": "on top of" },
+          { "isInformal": 0, "similarity": 50, "term": "to boot" },
+          { "isInformal": 0, "similarity": 10, "term": "moreover" },
+          { "isInformal": 0, "similarity": 10, "term": "still further" }
+        ]
+      },
+      {
+        "antonyms": [],
+        "definition": "at the present time",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "now" },
+          { "isInformal": 0, "similarity": 100, "term": "right now" },
+          { "isInformal": 0, "similarity": 100, "term": "at this time" },
+          { "isInformal": 0, "similarity": 50, "term": "already" },
+          { "isInformal": 0, "similarity": 50, "term": "at present" }
+        ]
+      },
+      {
+        "antonyms": [],
+        "definition": "though",
+        "isInformal": "0",
+        "note": null,
+        "pos": "conj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "although" },
+          { "isInformal": 0, "similarity": 100, "term": "even though" },
+          { "isInformal": 0, "similarity": 100, "term": "though" }
+        ]
+      }
+    ],
+    "term": "yet"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "bills" },
+          { "isInformal": 0, "similarity": -100, "term": "debt" },
+          { "isInformal": 0, "similarity": -100, "term": "payment" }
+        ],
+        "definition": "production of labor",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "crop" },
+          { "isInformal": 0, "similarity": 100, "term": "earnings" },
+          { "isInformal": 0, "similarity": 100, "term": "harvest" },
+          { "isInformal": 0, "similarity": 100, "term": "income" },
+          { "isInformal": 0, "similarity": 100, "term": "output" },
+          { "isInformal": 0, "similarity": 100, "term": "profit" },
+          { "isInformal": 0, "similarity": 100, "term": "return" },
+          { "isInformal": 0, "similarity": 100, "term": "revenue" },
+          { "isInformal": 0, "similarity": 100, "term": "turnout" },
+          { "isInformal": 0, "similarity": 50, "term": "outturn" },
+          { "isInformal": 0, "similarity": 50, "term": "produce" },
+          { "isInformal": 0, "similarity": 50, "term": "takings" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "deny" },
+          { "isInformal": 0, "similarity": -100, "term": "hold" },
+          { "isInformal": 0, "similarity": -100, "term": "keep" },
+          { "isInformal": 0, "similarity": -100, "term": "lose" },
+          { "isInformal": 0, "similarity": -100, "term": "refuse" },
+          { "isInformal": 0, "similarity": -100, "term": "take" },
+          { "isInformal": 0, "similarity": -100, "term": "withhold" },
+          { "isInformal": 0, "similarity": -100, "term": "withstand" },
+          { "isInformal": 0, "similarity": -10, "term": "counter" },
+          { "isInformal": 0, "similarity": -10, "term": "disallow" },
+          { "isInformal": 0, "similarity": -10, "term": "disapprove" },
+          { "isInformal": 0, "similarity": -10, "term": "oppose" },
+          { "isInformal": 0, "similarity": -10, "term": "prevent" },
+          { "isInformal": 0, "similarity": -10, "term": "reject" },
+          { "isInformal": 0, "similarity": -10, "term": "veto" }
+        ],
+        "definition": "produce",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "allow" },
+          { "isInformal": 0, "similarity": 100, "term": "bring in" },
+          { "isInformal": 0, "similarity": 100, "term": "earn" },
+          { "isInformal": 0, "similarity": 100, "term": "generate" },
+          { "isInformal": 0, "similarity": 100, "term": "give" },
+          { "isInformal": 0, "similarity": 100, "term": "offer" },
+          { "isInformal": 0, "similarity": 100, "term": "pay" },
+          { "isInformal": 0, "similarity": 100, "term": "provide" },
+          { "isInformal": 0, "similarity": 100, "term": "supply" },
+          { "isInformal": 0, "similarity": 50, "term": "accrue" },
+          { "isInformal": 0, "similarity": 50, "term": "admit" },
+          { "isInformal": 0, "similarity": 50, "term": "afford" },
+          { "isInformal": 0, "similarity": 50, "term": "beam" },
+          { "isInformal": 0, "similarity": 50, "term": "bear" },
+          { "isInformal": 0, "similarity": 50, "term": "blossom" },
+          { "isInformal": 0, "similarity": 50, "term": "discharge" },
+          { "isInformal": 0, "similarity": 50, "term": "furnish" },
+          { "isInformal": 0, "similarity": 50, "term": "net" },
+          { "isInformal": 0, "similarity": 50, "term": "proffer" },
+          { "isInformal": 0, "similarity": 50, "term": "return" },
+          { "isInformal": 0, "similarity": 50, "term": "tender" },
+          { "isInformal": 0, "similarity": 10, "term": "bring forth" },
+          { "isInformal": 0, "similarity": 10, "term": "give off" },
+          { "isInformal": 0, "similarity": 10, "term": "hold out" },
+          { "isInformal": 0, "similarity": 10, "term": "sell for" },
+          { "isInformal": 0, "similarity": 10, "term": "turn out" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "defend" },
+          { "isInformal": 0, "similarity": -100, "term": "fight" },
+          { "isInformal": 0, "similarity": -50, "term": "agree" },
+          { "isInformal": 0, "similarity": -50, "term": "assert" },
+          { "isInformal": 0, "similarity": -50, "term": "build" },
+          { "isInformal": 0, "similarity": -50, "term": "hide" },
+          { "isInformal": 0, "similarity": -50, "term": "hold" },
+          { "isInformal": 0, "similarity": -50, "term": "increase" },
+          { "isInformal": 0, "similarity": -50, "term": "keep" },
+          { "isInformal": 0, "similarity": -50, "term": "retain" },
+          { "isInformal": 0, "similarity": -50, "term": "rise" },
+          { "isInformal": 0, "similarity": -50, "term": "stay" },
+          { "isInformal": 0, "similarity": -50, "term": "straighten" },
+          { "isInformal": 0, "similarity": -10, "term": "counter" },
+          { "isInformal": 0, "similarity": -10, "term": "deny" },
+          { "isInformal": 0, "similarity": -10, "term": "disallow" },
+          { "isInformal": 0, "similarity": -10, "term": "disapprove" },
+          { "isInformal": 0, "similarity": -10, "term": "oppose" },
+          { "isInformal": 0, "similarity": -10, "term": "prevent" },
+          { "isInformal": 0, "similarity": -10, "term": "refuse" },
+          { "isInformal": 0, "similarity": -10, "term": "reject" },
+          { "isInformal": 0, "similarity": -10, "term": "veto" },
+          { "isInformal": 0, "similarity": -10, "term": "withhold" }
+        ],
+        "definition": "give in, surrender",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "bow" },
+          { "isInformal": 0, "similarity": 100, "term": "buy" },
+          { "isInformal": 0, "similarity": 100, "term": "capitulate" },
+          { "isInformal": 0, "similarity": 100, "term": "give up" },
+          { "isInformal": 0, "similarity": 100, "term": "give way" },
+          { "isInformal": 0, "similarity": 100, "term": "leave" },
+          { "isInformal": 0, "similarity": 100, "term": "succumb" },
+          { "isInformal": 0, "similarity": 50, "term": "abandon" },
+          { "isInformal": 0, "similarity": 50, "term": "abdicate" },
+          { "isInformal": 0, "similarity": 50, "term": "bend" },
+          { "isInformal": 0, "similarity": 50, "term": "break" },
+          { "isInformal": 0, "similarity": 50, "term": "cede" },
+          { "isInformal": 0, "similarity": 50, "term": "collapse" },
+          { "isInformal": 0, "similarity": 50, "term": "crumple" },
+          { "isInformal": 0, "similarity": 50, "term": "defer" },
+          { "isInformal": 0, "similarity": 50, "term": "fold" },
+          { "isInformal": 0, "similarity": 50, "term": "go" },
+          { "isInformal": 0, "similarity": 50, "term": "knuckle" },
+          { "isInformal": 0, "similarity": 50, "term": "relax" },
+          { "isInformal": 0, "similarity": 50, "term": "relent" },
+          { "isInformal": 0, "similarity": 50, "term": "relinquish" },
+          { "isInformal": 0, "similarity": 50, "term": "resign" },
+          { "isInformal": 0, "similarity": 50, "term": "sag" },
+          { "isInformal": 0, "similarity": 50, "term": "submit" },
+          { "isInformal": 0, "similarity": 10, "term": "admit defeat" },
+          { "isInformal": 0, "similarity": 10, "term": "back down" },
+          { "isInformal": 0, "similarity": 10, "term": "call it quits" },
+          { "isInformal": 0, "similarity": 10, "term": "cave in" },
+          { "isInformal": 0, "similarity": 10, "term": "come to terms" },
+          { "isInformal": 0, "similarity": 10, "term": "fold up" },
+          { "isInformal": 0, "similarity": 10, "term": "give oneself over" },
+          { "isInformal": 0, "similarity": 10, "term": "hand over" },
+          { "isInformal": 0, "similarity": 10, "term": "knuckle under" },
+          { "isInformal": 0, "similarity": 10, "term": "lay down arms" },
+          { "isInformal": 0, "similarity": 10, "term": "let go" },
+          { "isInformal": 0, "similarity": 10, "term": "part with" },
+          { "isInformal": 0, "similarity": 10, "term": "suffer defeat" },
+          { "isInformal": 0, "similarity": 10, "term": "throw in the towel" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "contradict" },
+          { "isInformal": 0, "similarity": -100, "term": "decline" },
+          { "isInformal": 0, "similarity": -100, "term": "disagree" },
+          { "isInformal": 0, "similarity": -100, "term": "dispute" },
+          { "isInformal": 0, "similarity": -100, "term": "dissent" },
+          { "isInformal": 0, "similarity": -100, "term": "fight" },
+          { "isInformal": 0, "similarity": -100, "term": "refuse" },
+          { "isInformal": 0, "similarity": -100, "term": "reject" },
+          { "isInformal": 0, "similarity": -100, "term": "repudiate" },
+          { "isInformal": 0, "similarity": -100, "term": "win" },
+          { "isInformal": 0, "similarity": -50, "term": "deny" },
+          { "isInformal": 0, "similarity": -50, "term": "differ" },
+          { "isInformal": 0, "similarity": -50, "term": "disallow" },
+          { "isInformal": 0, "similarity": -50, "term": "disapprove" },
+          { "isInformal": 0, "similarity": -50, "term": "object" },
+          { "isInformal": 0, "similarity": -50, "term": "oppose" },
+          { "isInformal": 0, "similarity": -50, "term": "protest" },
+          { "isInformal": 0, "similarity": -10, "term": "counter" },
+          { "isInformal": 0, "similarity": -10, "term": "prevent" },
+          { "isInformal": 0, "similarity": -10, "term": "veto" },
+          { "isInformal": 0, "similarity": -10, "term": "withhold" }
+        ],
+        "definition": "grant, allow",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "accept" },
+          { "isInformal": 0, "similarity": 100, "term": "agree" },
+          { "isInformal": 0, "similarity": 100, "term": "bow" },
+          { "isInformal": 0, "similarity": 100, "term": "concede" },
+          { "isInformal": 0, "similarity": 100, "term": "fail" },
+          { "isInformal": 0, "similarity": 100, "term": "surrender" },
+          { "isInformal": 0, "similarity": 50, "term": "accede" },
+          { "isInformal": 0, "similarity": 50, "term": "acknowledge" },
+          { "isInformal": 0, "similarity": 50, "term": "acquiesce" },
+          { "isInformal": 0, "similarity": 50, "term": "admit" },
+          { "isInformal": 0, "similarity": 50, "term": "assent" },
+          { "isInformal": 0, "similarity": 50, "term": "break" },
+          { "isInformal": 0, "similarity": 50, "term": "comply" },
+          { "isInformal": 0, "similarity": 50, "term": "concur" },
+          { "isInformal": 0, "similarity": 50, "term": "consent" },
+          { "isInformal": 0, "similarity": 50, "term": "defer" },
+          { "isInformal": 0, "similarity": 50, "term": "permit" },
+          { "isInformal": 0, "similarity": 50, "term": "waive" },
+          { "isInformal": 0, "similarity": 10, "term": "fit in" },
+          { "isInformal": 0, "similarity": 10, "term": "go along with" },
+          { "isInformal": 0, "similarity": 10, "term": "go with the flow" },
+          { "isInformal": 0, "similarity": 10, "term": "play the game" },
+          { "isInformal": 0, "similarity": 10, "term": "toe the line" },
+          { "isInformal": 0, "similarity": 10, "term": "toe the mark" }
+        ]
+      }
+    ],
+    "term": "yield"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "hard" },
+          { "isInformal": 0, "similarity": -10, "term": "obstinate" },
+          { "isInformal": 0, "similarity": -10, "term": "resistant" },
+          { "isInformal": 0, "similarity": -10, "term": "rigid" },
+          { "isInformal": 0, "similarity": -10, "term": "solid" },
+          { "isInformal": 0, "similarity": -10, "term": "unflexible" }
+        ],
+        "definition": "accommodating",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "humble" },
+          { "isInformal": 0, "similarity": 50, "term": "passive" },
+          { "isInformal": 0, "similarity": 50, "term": "resigned" },
+          { "isInformal": 0, "similarity": 10, "term": "acquiescent" },
+          { "isInformal": 0, "similarity": 10, "term": "biddable" },
+          { "isInformal": 0, "similarity": 10, "term": "compliant" },
+          { "isInformal": 0, "similarity": 10, "term": "docile" },
+          { "isInformal": 0, "similarity": 10, "term": "easy" },
+          { "isInformal": 0, "similarity": 10, "term": "flexible" },
+          { "isInformal": 0, "similarity": 10, "term": "nonresistant" },
+          { "isInformal": 0, "similarity": 10, "term": "obedient" },
+          { "isInformal": 0, "similarity": 10, "term": "pliable" },
+          { "isInformal": 0, "similarity": 10, "term": "pliant" },
+          { "isInformal": 0, "similarity": 10, "term": "putty in one's hands" },
+          { "isInformal": 0, "similarity": 10, "term": "submissive" },
+          { "isInformal": 0, "similarity": 10, "term": "tractable" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "hard" },
+          { "isInformal": 0, "similarity": -50, "term": "inflexible" },
+          { "isInformal": 0, "similarity": -50, "term": "rigid" },
+          { "isInformal": 0, "similarity": -50, "term": "stiff" },
+          { "isInformal": 0, "similarity": -50, "term": "unflexible" },
+          { "isInformal": 0, "similarity": -10, "term": "obstinate" },
+          { "isInformal": 0, "similarity": -10, "term": "resistant" },
+          { "isInformal": 0, "similarity": -10, "term": "solid" }
+        ],
+        "definition": "soft, flexible",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "elastic" },
+          { "isInformal": 0, "similarity": 50, "term": "plastic" },
+          { "isInformal": 0, "similarity": 50, "term": "supple" },
+          { "isInformal": 0, "similarity": 10, "term": "malleable" },
+          { "isInformal": 0, "similarity": 10, "term": "mushy" },
+          { "isInformal": 0, "similarity": 10, "term": "pappy" },
+          { "isInformal": 0, "similarity": 10, "term": "pliable" },
+          { "isInformal": 0, "similarity": 10, "term": "pulpy" },
+          { "isInformal": 0, "similarity": 10, "term": "quaggy" },
+          { "isInformal": 0, "similarity": 10, "term": "resilient" },
+          { "isInformal": 0, "similarity": 10, "term": "spongy" },
+          { "isInformal": 0, "similarity": 10, "term": "springy" },
+          { "isInformal": 0, "similarity": 10, "term": "squishy" },
+          { "isInformal": 0, "similarity": 10, "term": "tractable" },
+          { "isInformal": 0, "similarity": 10, "term": "tractile" },
+          { "isInformal": 0, "similarity": 10, "term": "unresisting" }
+        ]
+      }
+    ],
+    "term": "yielding"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "experienced" },
+          { "isInformal": 0, "similarity": -100, "term": "old" },
+          { "isInformal": 0, "similarity": -50, "term": "adult" },
+          { "isInformal": 0, "similarity": -50, "term": "healthy" },
+          { "isInformal": 0, "similarity": -50, "term": "mature" },
+          { "isInformal": 0, "similarity": -50, "term": "older" },
+          { "isInformal": 0, "similarity": -50, "term": "sophisticated" }
+        ],
+        "definition": "immature",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "budding" },
+          { "isInformal": 0, "similarity": 100, "term": "inexperienced" },
+          { "isInformal": 0, "similarity": 100, "term": "new" },
+          { "isInformal": 0, "similarity": 100, "term": "youthful" },
+          { "isInformal": 0, "similarity": 50, "term": "adolescent" },
+          { "isInformal": 0, "similarity": 50, "term": "blooming" },
+          { "isInformal": 0, "similarity": 50, "term": "blossoming" },
+          { "isInformal": 0, "similarity": 50, "term": "crude" },
+          { "isInformal": 0, "similarity": 50, "term": "developing" },
+          { "isInformal": 0, "similarity": 50, "term": "fledgling" },
+          { "isInformal": 0, "similarity": 50, "term": "green" },
+          { "isInformal": 0, "similarity": 50, "term": "growing" },
+          { "isInformal": 0, "similarity": 50, "term": "infant" },
+          { "isInformal": 0, "similarity": 50, "term": "inferior" },
+          { "isInformal": 0, "similarity": 50, "term": "junior" },
+          { "isInformal": 0, "similarity": 50, "term": "juvenile" },
+          { "isInformal": 0, "similarity": 50, "term": "little" },
+          { "isInformal": 0, "similarity": 50, "term": "modern" },
+          { "isInformal": 0, "similarity": 50, "term": "newborn" },
+          { "isInformal": 0, "similarity": 50, "term": "punk" },
+          { "isInformal": 0, "similarity": 50, "term": "raw" },
+          { "isInformal": 0, "similarity": 50, "term": "recent" },
+          { "isInformal": 0, "similarity": 50, "term": "tender" },
+          { "isInformal": 0, "similarity": 50, "term": "tenderfoot" },
+          { "isInformal": 0, "similarity": 10, "term": "boyish" },
+          { "isInformal": 0, "similarity": 10, "term": "boylike" },
+          { "isInformal": 0, "similarity": 10, "term": "burgeoning" },
+          { "isInformal": 0, "similarity": 10, "term": "callow" },
+          { "isInformal": 0, "similarity": 10, "term": "childish" },
+          { "isInformal": 0, "similarity": 10, "term": "childlike" },
+          { "isInformal": 0, "similarity": 10, "term": "early" },
+          { "isInformal": 0, "similarity": 10, "term": "fresh" },
+          { "isInformal": 0, "similarity": 10, "term": "girlish" },
+          { "isInformal": 0, "similarity": 10, "term": "girllike" },
+          { "isInformal": 0, "similarity": 10, "term": "half-grown" },
+          { "isInformal": 0, "similarity": 10, "term": "ignorant" },
+          { "isInformal": 0, "similarity": 10, "term": "newish" },
+          { "isInformal": 0, "similarity": 10, "term": "not aged" },
+          { "isInformal": 0, "similarity": 10, "term": "pubescent" },
+          { "isInformal": 0, "similarity": 10, "term": "puerile" },
+          { "isInformal": 0, "similarity": 10, "term": "undeveloped" },
+          { "isInformal": 0, "similarity": 10, "term": "undisciplined" },
+          { "isInformal": 0, "similarity": 10, "term": "unfinished" },
+          { "isInformal": 0, "similarity": 10, "term": "unfledged" },
+          { "isInformal": 0, "similarity": 10, "term": "unlearned" },
+          { "isInformal": 0, "similarity": 10, "term": "unpracticed" },
+          { "isInformal": 0, "similarity": 10, "term": "unripe" },
+          { "isInformal": 0, "similarity": 10, "term": "unseasoned" },
+          { "isInformal": 0, "similarity": 10, "term": "untried" },
+          { "isInformal": 0, "similarity": 10, "term": "unversed" },
+          { "isInformal": 0, "similarity": 10, "term": "vernal" }
+        ]
+      },
+      {
+        "antonyms": [{ "isInformal": 0, "similarity": -50, "term": "parent" }],
+        "definition": "animate beings that are not mature",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "baby" },
+          { "isInformal": 0, "similarity": 100, "term": "family" },
+          { "isInformal": 0, "similarity": 50, "term": "babies" },
+          { "isInformal": 0, "similarity": 50, "term": "brood" },
+          { "isInformal": 0, "similarity": 50, "term": "infants" },
+          { "isInformal": 0, "similarity": 50, "term": "issue" },
+          { "isInformal": 0, "similarity": 50, "term": "litter" },
+          { "isInformal": 0, "similarity": 50, "term": "offspring" },
+          { "isInformal": 0, "similarity": 50, "term": "progeny" },
+          { "isInformal": 0, "similarity": 10, "term": "little ones" }
+        ]
+      }
+    ],
+    "term": "young"
+  }
+]

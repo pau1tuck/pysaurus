@@ -1,0 +1,1858 @@
+[
+  {
+    "data": [
+      {
+        "antonyms": [],
+        "definition": "rectangular area",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "quadrangle" },
+          { "isInformal": 0, "similarity": 50, "term": "quadruplet" },
+          { "isInformal": 0, "similarity": 10, "term": "quadraphonic" }
+        ],
+        "targetId": "u27e59bea365df506.-410fe1c2.179519ea646.7c0e",
+        "targetTerm": "quad"
+      },
+      {
+        "antonyms": [{ "isInformal": 0, "similarity": -100, "term": "whole" }],
+        "definition": "one of four equal parts",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "fourth" },
+          { "isInformal": 0, "similarity": 100, "term": "one-fourth" },
+          { "isInformal": 0, "similarity": 100, "term": "part" },
+          { "isInformal": 0, "similarity": 100, "term": "portion" },
+          { "isInformal": 0, "similarity": 100, "term": "term" },
+          { "isInformal": 0, "similarity": 50, "term": "division" },
+          { "isInformal": 0, "similarity": 50, "term": "quad" },
+          { "isInformal": 0, "similarity": 50, "term": "quartern" },
+          { "isInformal": 0, "similarity": 50, "term": "section" },
+          { "isInformal": 0, "similarity": 50, "term": "semester" },
+          { "isInformal": 0, "similarity": 50, "term": "span" }
+        ],
+        "targetId": "u27e59bea365df506.-410fe1c2.179519edc6c.-72f3",
+        "targetTerm": "quarter"
+      }
+    ],
+    "term": "quadrant"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "ignorance" },
+          { "isInformal": 0, "similarity": -100, "term": "inability" },
+          { "isInformal": 0, "similarity": -100, "term": "inadequacy" },
+          { "isInformal": 0, "similarity": -100, "term": "incapability" },
+          { "isInformal": 0, "similarity": -100, "term": "incompetence" },
+          { "isInformal": 0, "similarity": -100, "term": "ineptness" },
+          { "isInformal": 0, "similarity": -100, "term": "inexperience" },
+          { "isInformal": 0, "similarity": -50, "term": "loss" },
+          { "isInformal": 0, "similarity": -50, "term": "weakness" },
+          { "isInformal": 0, "similarity": -10, "term": "disqualification" },
+          { "isInformal": 0, "similarity": -10, "term": "inaptitude" },
+          { "isInformal": 0, "similarity": -10, "term": "lack" }
+        ],
+        "definition": "ability, aptitude",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "accomplishment" },
+          { "isInformal": 0, "similarity": 100, "term": "adequacy" },
+          { "isInformal": 0, "similarity": 100, "term": "capability" },
+          { "isInformal": 0, "similarity": 100, "term": "competence" },
+          { "isInformal": 0, "similarity": 100, "term": "eligibility" },
+          { "isInformal": 0, "similarity": 100, "term": "experience" },
+          { "isInformal": 0, "similarity": 100, "term": "fitness" },
+          { "isInformal": 0, "similarity": 100, "term": "quality" },
+          { "isInformal": 0, "similarity": 100, "term": "skill" },
+          { "isInformal": 0, "similarity": 100, "term": "suitability" },
+          { "isInformal": 0, "similarity": 50, "term": "attainment" },
+          { "isInformal": 0, "similarity": 50, "term": "attribute" },
+          { "isInformal": 0, "similarity": 50, "term": "capacity" },
+          { "isInformal": 0, "similarity": 50, "term": "endowment" },
+          { "isInformal": 0, "similarity": 50, "term": "goods" },
+          { "isInformal": 0, "similarity": 50, "term": "makings" },
+          { "isInformal": 0, "similarity": 50, "term": "might" },
+          { "isInformal": 0, "similarity": 50, "term": "stuff" },
+          { "isInformal": 0, "similarity": 50, "term": "suitableness" },
+          { "isInformal": 0, "similarity": 10, "term": "qualifiedness" },
+          { "isInformal": 0, "similarity": 10, "term": "what it takes" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "nonessential" },
+          { "isInformal": 0, "similarity": -10, "term": "disqualification" },
+          { "isInformal": 0, "similarity": -10, "term": "inability" },
+          { "isInformal": 0, "similarity": -10, "term": "inaptitude" },
+          { "isInformal": 0, "similarity": -10, "term": "lack" }
+        ],
+        "definition": "requirement, restriction",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "condition" },
+          { "isInformal": 0, "similarity": 100, "term": "criterion" },
+          { "isInformal": 0, "similarity": 100, "term": "provision" },
+          { "isInformal": 0, "similarity": 50, "term": "allowance" },
+          { "isInformal": 0, "similarity": 50, "term": "caveat" },
+          { "isInformal": 0, "similarity": 50, "term": "contingency" },
+          { "isInformal": 0, "similarity": 50, "term": "essential" },
+          { "isInformal": 0, "similarity": 50, "term": "exception" },
+          { "isInformal": 0, "similarity": 50, "term": "exemption" },
+          { "isInformal": 0, "similarity": 50, "term": "limitation" },
+          { "isInformal": 0, "similarity": 50, "term": "modification" },
+          { "isInformal": 0, "similarity": 50, "term": "need" },
+          { "isInformal": 0, "similarity": 50, "term": "objection" },
+          { "isInformal": 0, "similarity": 50, "term": "postulate" },
+          { "isInformal": 0, "similarity": 50, "term": "prerequisite" },
+          { "isInformal": 0, "similarity": 50, "term": "proviso" },
+          { "isInformal": 0, "similarity": 50, "term": "requisite" },
+          { "isInformal": 0, "similarity": 50, "term": "reservation" },
+          { "isInformal": 0, "similarity": 50, "term": "stipulation" }
+        ]
+      }
+    ],
+    "term": "qualification"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "ignorant" },
+          { "isInformal": 0, "similarity": -100, "term": "impotent" },
+          { "isInformal": 0, "similarity": -100, "term": "inadequate" },
+          { "isInformal": 0, "similarity": -100, "term": "incapable" },
+          { "isInformal": 0, "similarity": -100, "term": "incompetent" },
+          { "isInformal": 0, "similarity": -100, "term": "inefficient" },
+          { "isInformal": 0, "similarity": -100, "term": "inept" },
+          { "isInformal": 0, "similarity": -100, "term": "inexperienced" },
+          { "isInformal": 0, "similarity": -100, "term": "unable" },
+          { "isInformal": 0, "similarity": -100, "term": "unskilled" },
+          { "isInformal": 0, "similarity": -50, "term": "inappropriate" },
+          { "isInformal": 0, "similarity": -50, "term": "incorrect" },
+          { "isInformal": 0, "similarity": -50, "term": "unfit" },
+          { "isInformal": 0, "similarity": -10, "term": "open" },
+          { "isInformal": 0, "similarity": -10, "term": "unlimited" },
+          { "isInformal": 0, "similarity": -10, "term": "unproficient" },
+          { "isInformal": 0, "similarity": -10, "term": "unqualified" },
+          { "isInformal": 0, "similarity": -10, "term": "unrestricted" },
+          { "isInformal": 0, "similarity": -10, "term": "untalented" }
+        ],
+        "definition": "able, skillful",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "accomplished" },
+          { "isInformal": 0, "similarity": 100, "term": "adequate" },
+          { "isInformal": 0, "similarity": 100, "term": "capable" },
+          { "isInformal": 0, "similarity": 100, "term": "certified" },
+          { "isInformal": 0, "similarity": 100, "term": "competent" },
+          { "isInformal": 0, "similarity": 100, "term": "disciplined" },
+          { "isInformal": 0, "similarity": 100, "term": "efficient" },
+          { "isInformal": 0, "similarity": 100, "term": "equipped" },
+          { "isInformal": 0, "similarity": 100, "term": "experienced" },
+          { "isInformal": 0, "similarity": 100, "term": "knowledgeable" },
+          { "isInformal": 0, "similarity": 100, "term": "licensed" },
+          { "isInformal": 0, "similarity": 100, "term": "proficient" },
+          { "isInformal": 0, "similarity": 100, "term": "talented" },
+          { "isInformal": 0, "similarity": 100, "term": "trained" },
+          { "isInformal": 0, "similarity": 50, "term": "catechized" },
+          { "isInformal": 0, "similarity": 50, "term": "examined" },
+          { "isInformal": 0, "similarity": 50, "term": "fit" },
+          { "isInformal": 0, "similarity": 50, "term": "fitted" },
+          { "isInformal": 0, "similarity": 50, "term": "instructed" },
+          { "isInformal": 0, "similarity": 50, "term": "practiced" },
+          { "isInformal": 0, "similarity": 50, "term": "proved" },
+          { "isInformal": 0, "similarity": 50, "term": "quizzed" },
+          { "isInformal": 0, "similarity": 50, "term": "tested" },
+          { "isInformal": 0, "similarity": 50, "term": "tried" },
+          { "isInformal": 0, "similarity": 50, "term": "vet" },
+          { "isInformal": 0, "similarity": 10, "term": "adept" },
+          { "isInformal": 0, "similarity": 10, "term": "all around" },
+          { "isInformal": 0, "similarity": 10, "term": "au fait" },
+          { "isInformal": 0, "similarity": 10, "term": "expert" },
+          { "isInformal": 0, "similarity": 10, "term": "good" },
+          { "isInformal": 0, "similarity": 10, "term": "pro" },
+          { "isInformal": 0, "similarity": 10, "term": "proper" },
+          { "isInformal": 0, "similarity": 10, "term": "up to snuff" },
+          { "isInformal": 0, "similarity": 10, "term": "up to speed" },
+          { "isInformal": 0, "similarity": 10, "term": "veteran" },
+          { "isInformal": 0, "similarity": 10, "term": "wicked" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "free" },
+          { "isInformal": 0, "similarity": -50, "term": "unlimited" },
+          { "isInformal": 0, "similarity": -10, "term": "incapable" },
+          { "isInformal": 0, "similarity": -10, "term": "open" },
+          { "isInformal": 0, "similarity": -10, "term": "unable" },
+          { "isInformal": 0, "similarity": -10, "term": "unproficient" },
+          { "isInformal": 0, "similarity": -10, "term": "unqualified" },
+          { "isInformal": 0, "similarity": -10, "term": "unrestricted" },
+          { "isInformal": 0, "similarity": -10, "term": "unskilled" },
+          { "isInformal": 0, "similarity": -10, "term": "untalented" }
+        ],
+        "definition": "limited, restricted",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "determined" },
+          { "isInformal": 0, "similarity": 50, "term": "bounded" },
+          { "isInformal": 0, "similarity": 50, "term": "circumscribed" },
+          { "isInformal": 0, "similarity": 50, "term": "confined" },
+          { "isInformal": 0, "similarity": 50, "term": "fixed" },
+          { "isInformal": 0, "similarity": 50, "term": "guarded" },
+          { "isInformal": 0, "similarity": 50, "term": "modified" },
+          { "isInformal": 0, "similarity": 50, "term": "reserved" },
+          { "isInformal": 0, "similarity": 10, "term": "conditional" },
+          { "isInformal": 0, "similarity": 10, "term": "contingent" },
+          { "isInformal": 0, "similarity": 10, "term": "definite" },
+          { "isInformal": 0, "similarity": 10, "term": "equivocal" },
+          { "isInformal": 0, "similarity": 10, "term": "partial" },
+          { "isInformal": 0, "similarity": 10, "term": "provisional" }
+        ]
+      }
+    ],
+    "term": "qualified"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "deny" },
+          { "isInformal": 0, "similarity": -100, "term": "fail" },
+          { "isInformal": 0, "similarity": -100, "term": "lose" },
+          { "isInformal": 0, "similarity": -50, "term": "disallow" },
+          { "isInformal": 0, "similarity": -50, "term": "dissatisfy" },
+          { "isInformal": 0, "similarity": -50, "term": "refuse" },
+          { "isInformal": 0, "similarity": -50, "term": "reject" },
+          { "isInformal": 0, "similarity": -10, "term": "allow" },
+          { "isInformal": 0, "similarity": -10, "term": "be lenient" },
+          { "isInformal": 0, "similarity": -10, "term": "be unprepared" },
+          { "isInformal": 0, "similarity": -10, "term": "disqualify" }
+        ],
+        "definition": "make or become ready, prepared",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "certify" },
+          { "isInformal": 0, "similarity": 100, "term": "enable" },
+          { "isInformal": 0, "similarity": 100, "term": "entitle" },
+          { "isInformal": 0, "similarity": 100, "term": "meet" },
+          { "isInformal": 0, "similarity": 100, "term": "pass" },
+          { "isInformal": 0, "similarity": 100, "term": "ready" },
+          { "isInformal": 0, "similarity": 100, "term": "score" },
+          { "isInformal": 0, "similarity": 100, "term": "train" },
+          { "isInformal": 0, "similarity": 50, "term": "authorize" },
+          { "isInformal": 0, "similarity": 50, "term": "capacitate" },
+          { "isInformal": 0, "similarity": 50, "term": "commission" },
+          { "isInformal": 0, "similarity": 50, "term": "condition" },
+          { "isInformal": 0, "similarity": 50, "term": "empower" },
+          { "isInformal": 0, "similarity": 50, "term": "endow" },
+          { "isInformal": 0, "similarity": 50, "term": "equip" },
+          { "isInformal": 0, "similarity": 50, "term": "fit" },
+          { "isInformal": 0, "similarity": 50, "term": "ground" },
+          { "isInformal": 0, "similarity": 50, "term": "permit" },
+          { "isInformal": 0, "similarity": 50, "term": "sanction" },
+          { "isInformal": 0, "similarity": 50, "term": "suffice" },
+          { "isInformal": 0, "similarity": 50, "term": "suit" },
+          { "isInformal": 0, "similarity": 10, "term": "check out" },
+          { "isInformal": 0, "similarity": 10, "term": "come up to snuff" },
+          { "isInformal": 0, "similarity": 10, "term": "cut it" },
+          { "isInformal": 0, "similarity": 10, "term": "earn one's wings" },
+          { "isInformal": 0, "similarity": 10, "term": "fill the bill" },
+          { "isInformal": 0, "similarity": 10, "term": "get by" },
+          { "isInformal": 0, "similarity": 10, "term": "hack it" },
+          { "isInformal": 0, "similarity": 10, "term": "make it" },
+          { "isInformal": 0, "similarity": 10, "term": "make the cut" },
+          { "isInformal": 0, "similarity": 10, "term": "make the grade" },
+          { "isInformal": 0, "similarity": 10, "term": "measure up" },
+          { "isInformal": 0, "similarity": 10, "term": "pass muster" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "aggravate" },
+          { "isInformal": 0, "similarity": -50, "term": "continue" },
+          { "isInformal": 0, "similarity": -50, "term": "enlarge" },
+          { "isInformal": 0, "similarity": -50, "term": "expand" },
+          { "isInformal": 0, "similarity": -50, "term": "extend" },
+          { "isInformal": 0, "similarity": -50, "term": "free" },
+          { "isInformal": 0, "similarity": -50, "term": "grow" },
+          { "isInformal": 0, "similarity": -50, "term": "incite" },
+          { "isInformal": 0, "similarity": -50, "term": "increase" },
+          { "isInformal": 0, "similarity": -50, "term": "intensify" },
+          { "isInformal": 0, "similarity": -50, "term": "irritate" },
+          { "isInformal": 0, "similarity": -50, "term": "keep" },
+          { "isInformal": 0, "similarity": -50, "term": "leave alone" },
+          { "isInformal": 0, "similarity": -50, "term": "let go" },
+          { "isInformal": 0, "similarity": -50, "term": "liberate" },
+          { "isInformal": 0, "similarity": -50, "term": "prolong" },
+          { "isInformal": 0, "similarity": -50, "term": "release" },
+          { "isInformal": 0, "similarity": -50, "term": "remain" },
+          { "isInformal": 0, "similarity": -50, "term": "stay" },
+          { "isInformal": 0, "similarity": -50, "term": "strengthen" },
+          { "isInformal": 0, "similarity": -50, "term": "upset" },
+          { "isInformal": 0, "similarity": -50, "term": "worsen" },
+          { "isInformal": 0, "similarity": -10, "term": "allow" },
+          { "isInformal": 0, "similarity": -10, "term": "be lenient" },
+          { "isInformal": 0, "similarity": -10, "term": "be unprepared" },
+          { "isInformal": 0, "similarity": -10, "term": "disqualify" }
+        ],
+        "definition": "lessen, restrict",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "abate" },
+          { "isInformal": 0, "similarity": 50, "term": "adapt" },
+          { "isInformal": 0, "similarity": 50, "term": "alter" },
+          { "isInformal": 0, "similarity": 50, "term": "assuage" },
+          { "isInformal": 0, "similarity": 50, "term": "change" },
+          { "isInformal": 0, "similarity": 50, "term": "circumscribe" },
+          { "isInformal": 0, "similarity": 50, "term": "diminish" },
+          { "isInformal": 0, "similarity": 50, "term": "ease" },
+          { "isInformal": 0, "similarity": 50, "term": "limit" },
+          { "isInformal": 0, "similarity": 50, "term": "mitigate" },
+          { "isInformal": 0, "similarity": 50, "term": "moderate" },
+          { "isInformal": 0, "similarity": 50, "term": "modify" },
+          { "isInformal": 0, "similarity": 50, "term": "modulate" },
+          { "isInformal": 0, "similarity": 50, "term": "reduce" },
+          { "isInformal": 0, "similarity": 50, "term": "regulate" },
+          { "isInformal": 0, "similarity": 50, "term": "restrain" },
+          { "isInformal": 0, "similarity": 50, "term": "soften" },
+          { "isInformal": 0, "similarity": 50, "term": "temper" },
+          { "isInformal": 0, "similarity": 50, "term": "vary" },
+          { "isInformal": 0, "similarity": 50, "term": "weaken" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "allow" },
+          { "isInformal": 0, "similarity": -10, "term": "be lenient" },
+          { "isInformal": 0, "similarity": -10, "term": "be unprepared" },
+          { "isInformal": 0, "similarity": -10, "term": "disqualify" }
+        ],
+        "definition": "characterize, distinguish",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "describe" },
+          { "isInformal": 0, "similarity": 100, "term": "designate" },
+          { "isInformal": 0, "similarity": 100, "term": "mark" },
+          { "isInformal": 0, "similarity": 50, "term": "ascribe" },
+          { "isInformal": 0, "similarity": 50, "term": "assign" },
+          { "isInformal": 0, "similarity": 50, "term": "attribute" },
+          { "isInformal": 0, "similarity": 50, "term": "impute" },
+          { "isInformal": 0, "similarity": 50, "term": "individualize" },
+          { "isInformal": 0, "similarity": 50, "term": "individuate" },
+          { "isInformal": 0, "similarity": 50, "term": "name" },
+          { "isInformal": 0, "similarity": 50, "term": "predicate" },
+          { "isInformal": 0, "similarity": 50, "term": "signalize" },
+          { "isInformal": 0, "similarity": 50, "term": "singularize" }
+        ]
+      }
+    ],
+    "term": "qualify"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "quantitative" },
+          { "isInformal": 0, "similarity": -50, "term": "objective" }
+        ],
+        "definition": "concerning qualities not quantities",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "approximate" },
+          { "isInformal": 0, "similarity": 50, "term": "subjective" },
+          { "isInformal": 0, "similarity": 10, "term": "conditional" },
+          { "isInformal": 0, "similarity": 10, "term": "dependent" },
+          { "isInformal": 0, "similarity": 10, "term": "partial" }
+        ]
+      }
+    ],
+    "term": "qualitative"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [],
+        "definition": "characteristic, feature",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "aspect" },
+          { "isInformal": 0, "similarity": 100, "term": "character" },
+          { "isInformal": 0, "similarity": 100, "term": "condition" },
+          { "isInformal": 0, "similarity": 100, "term": "element" },
+          { "isInformal": 0, "similarity": 100, "term": "kind" },
+          { "isInformal": 0, "similarity": 100, "term": "nature" },
+          { "isInformal": 0, "similarity": 100, "term": "trait" },
+          { "isInformal": 0, "similarity": 50, "term": "affection" },
+          { "isInformal": 0, "similarity": 50, "term": "affirmation" },
+          { "isInformal": 0, "similarity": 50, "term": "attribute" },
+          { "isInformal": 0, "similarity": 50, "term": "constitution" },
+          { "isInformal": 0, "similarity": 50, "term": "description" },
+          { "isInformal": 0, "similarity": 50, "term": "endowment" },
+          { "isInformal": 0, "similarity": 50, "term": "essence" },
+          { "isInformal": 0, "similarity": 50, "term": "factor" },
+          { "isInformal": 0, "similarity": 50, "term": "genius" },
+          { "isInformal": 0, "similarity": 50, "term": "individuality" },
+          { "isInformal": 0, "similarity": 50, "term": "make" },
+          { "isInformal": 0, "similarity": 50, "term": "mark" },
+          { "isInformal": 0, "similarity": 50, "term": "parameter" },
+          { "isInformal": 0, "similarity": 50, "term": "peculiarity" },
+          { "isInformal": 0, "similarity": 50, "term": "predication" },
+          { "isInformal": 0, "similarity": 50, "term": "property" },
+          { "isInformal": 0, "similarity": 50, "term": "savor" },
+          { "isInformal": 0, "similarity": 50, "term": "sort" },
+          { "isInformal": 0, "similarity": 50, "term": "virtue" },
+          { "isInformal": 0, "similarity": 10, "term": "name of tune" },
+          { "isInformal": 0, "similarity": 10, "term": "nature of beast" },
+          { "isInformal": 0, "similarity": 10, "term": "way of it" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "disadvantage" },
+          { "isInformal": 0, "similarity": -50, "term": "insignificance" },
+          { "isInformal": 0, "similarity": -50, "term": "unemployment" },
+          { "isInformal": 0, "similarity": -50, "term": "unimportance" },
+          { "isInformal": 0, "similarity": -50, "term": "worthlessness" }
+        ],
+        "definition": "value, status",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "capacity" },
+          { "isInformal": 0, "similarity": 100, "term": "character" },
+          { "isInformal": 0, "similarity": 100, "term": "condition" },
+          { "isInformal": 0, "similarity": 100, "term": "excellence" },
+          { "isInformal": 0, "similarity": 100, "term": "kind" },
+          { "isInformal": 0, "similarity": 100, "term": "variety" },
+          { "isInformal": 0, "similarity": 50, "term": "arete" },
+          { "isInformal": 0, "similarity": 50, "term": "caliber" },
+          { "isInformal": 0, "similarity": 50, "term": "class" },
+          { "isInformal": 0, "similarity": 50, "term": "distinction" },
+          { "isInformal": 0, "similarity": 50, "term": "excellency" },
+          { "isInformal": 0, "similarity": 50, "term": "footing" },
+          { "isInformal": 0, "similarity": 50, "term": "grade" },
+          { "isInformal": 0, "similarity": 50, "term": "group" },
+          { "isInformal": 0, "similarity": 50, "term": "merit" },
+          { "isInformal": 0, "similarity": 50, "term": "perfection" },
+          { "isInformal": 0, "similarity": 50, "term": "place" },
+          { "isInformal": 0, "similarity": 50, "term": "position" },
+          { "isInformal": 0, "similarity": 50, "term": "preeminence" },
+          { "isInformal": 0, "similarity": 50, "term": "rank" },
+          { "isInformal": 0, "similarity": 50, "term": "repute" },
+          { "isInformal": 0, "similarity": 50, "term": "standing" },
+          { "isInformal": 0, "similarity": 50, "term": "state" },
+          { "isInformal": 0, "similarity": 50, "term": "station" },
+          { "isInformal": 0, "similarity": 50, "term": "stature" },
+          { "isInformal": 0, "similarity": 50, "term": "step" },
+          { "isInformal": 0, "similarity": 50, "term": "superiority" },
+          { "isInformal": 0, "similarity": 50, "term": "virtue" },
+          { "isInformal": 0, "similarity": 50, "term": "worth" },
+          { "isInformal": 0, "similarity": 10, "term": "superbness" }
+        ]
+      }
+    ],
+    "term": "quality"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "imperceptible" },
+          { "isInformal": 0, "similarity": -10, "term": "insignificant" },
+          { "isInformal": 0, "similarity": -10, "term": "undeterminable" },
+          { "isInformal": 0, "similarity": -10, "term": "unmeasurable" }
+        ],
+        "definition": "determinable",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "perceptible" },
+          { "isInformal": 0, "similarity": 100, "term": "quantitative" },
+          { "isInformal": 0, "similarity": 100, "term": "significant" },
+          { "isInformal": 0, "similarity": 50, "term": "mensurable" },
+          { "isInformal": 0, "similarity": 10, "term": "assessable" },
+          { "isInformal": 0, "similarity": 10, "term": "calculable" },
+          { "isInformal": 0, "similarity": 10, "term": "commensurate" },
+          { "isInformal": 0, "similarity": 10, "term": "computable" },
+          { "isInformal": 0, "similarity": 10, "term": "fathomable" },
+          { "isInformal": 0, "similarity": 10, "term": "gaugeable" },
+          { "isInformal": 0, "similarity": 10, "term": "material" },
+          { "isInformal": 0, "similarity": 10, "term": "surveyable" },
+          { "isInformal": 0, "similarity": 10, "term": "weighable" }
+        ],
+        "targetId": "u27e59bea365df506.-410fe1c2.179519c7490.7404",
+        "targetTerm": "measurable"
+      }
+    ],
+    "term": "quantifiable"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "guess" },
+          { "isInformal": 0, "similarity": -50, "term": "estimate" },
+          { "isInformal": 0, "similarity": -50, "term": "ignore" }
+        ],
+        "definition": "measure",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "appraise" },
+          { "isInformal": 0, "similarity": 100, "term": "assess" },
+          { "isInformal": 0, "similarity": 100, "term": "calibrate" },
+          { "isInformal": 0, "similarity": 100, "term": "compute" },
+          { "isInformal": 0, "similarity": 100, "term": "evaluate" },
+          { "isInformal": 0, "similarity": 100, "term": "gauge" },
+          { "isInformal": 0, "similarity": 100, "term": "specify" },
+          { "isInformal": 0, "similarity": 50, "term": "check" },
+          { "isInformal": 0, "similarity": 50, "term": "count" },
+          { "isInformal": 0, "similarity": 50, "term": "determine" },
+          { "isInformal": 0, "similarity": 50, "term": "estimate" },
+          { "isInformal": 0, "similarity": 50, "term": "figure" },
+          { "isInformal": 0, "similarity": 50, "term": "rank" },
+          { "isInformal": 0, "similarity": 50, "term": "rate" },
+          { "isInformal": 0, "similarity": 50, "term": "size" },
+          { "isInformal": 0, "similarity": 50, "term": "value" },
+          { "isInformal": 0, "similarity": 50, "term": "weigh" },
+          { "isInformal": 0, "similarity": 10, "term": "look over" }
+        ]
+      }
+    ],
+    "term": "quantify"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "imperceptible" },
+          { "isInformal": 0, "similarity": -10, "term": "insignificant" },
+          { "isInformal": 0, "similarity": -10, "term": "undeterminable" },
+          { "isInformal": 0, "similarity": -10, "term": "unmeasurable" }
+        ],
+        "definition": "determinable",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "perceptible" },
+          { "isInformal": 0, "similarity": 100, "term": "significant" },
+          { "isInformal": 0, "similarity": 50, "term": "mensurable" },
+          { "isInformal": 0, "similarity": 10, "term": "assessable" },
+          { "isInformal": 0, "similarity": 10, "term": "calculable" },
+          { "isInformal": 0, "similarity": 10, "term": "commensurate" },
+          { "isInformal": 0, "similarity": 10, "term": "computable" },
+          { "isInformal": 0, "similarity": 10, "term": "fathomable" },
+          { "isInformal": 0, "similarity": 10, "term": "gaugeable" },
+          { "isInformal": 0, "similarity": 10, "term": "material" },
+          { "isInformal": 0, "similarity": 10, "term": "quantifiable" },
+          { "isInformal": 0, "similarity": 10, "term": "surveyable" },
+          { "isInformal": 0, "similarity": 10, "term": "weighable" }
+        ],
+        "targetId": "u27e59bea365df506.-410fe1c2.179519c7490.7404",
+        "targetTerm": "measurable"
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "narrow" },
+          { "isInformal": 0, "similarity": -50, "term": "incomplete" },
+          { "isInformal": 0, "similarity": -50, "term": "particular" },
+          { "isInformal": 0, "similarity": -50, "term": "specific" },
+          { "isInformal": 0, "similarity": -50, "term": "unfinished" },
+          { "isInformal": 0, "similarity": -10, "term": "part" },
+          { "isInformal": 0, "similarity": -10, "term": "partial" },
+          { "isInformal": 0, "similarity": -10, "term": "retail" }
+        ],
+        "definition": "all-inclusive",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "extensive" },
+          { "isInformal": 0, "similarity": 100, "term": "indiscriminate" },
+          { "isInformal": 0, "similarity": 100, "term": "large-scale" },
+          { "isInformal": 0, "similarity": 100, "term": "sweeping" },
+          { "isInformal": 0, "similarity": 50, "term": "broad" },
+          { "isInformal": 0, "similarity": 50, "term": "bulk" },
+          { "isInformal": 0, "similarity": 50, "term": "complete" },
+          { "isInformal": 0, "similarity": 50, "term": "comprehensive" },
+          { "isInformal": 0, "similarity": 50, "term": "general" },
+          { "isInformal": 0, "similarity": 50, "term": "mass" },
+          { "isInformal": 0, "similarity": 50, "term": "overall" },
+          { "isInformal": 0, "similarity": 50, "term": "total" },
+          { "isInformal": 0, "similarity": 10, "term": "far-reaching" },
+          { "isInformal": 0, "similarity": 10, "term": "in bulk" },
+          { "isInformal": 0, "similarity": 10, "term": "in quantity" },
+          { "isInformal": 0, "similarity": 10, "term": "in the mass" },
+          { "isInformal": 0, "similarity": 10, "term": "wide-ranging" },
+          { "isInformal": 0, "similarity": 10, "term": "widespread" }
+        ],
+        "targetId": "u27e59bea365df506.-410fe1c2.17951a30966.-366e",
+        "targetTerm": "wholesale"
+      }
+    ],
+    "term": "quantitative"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "individual" },
+          { "isInformal": 0, "similarity": -50, "term": "insignificance" },
+          { "isInformal": 0, "similarity": -50, "term": "littleness" },
+          { "isInformal": 0, "similarity": -50, "term": "one" },
+          { "isInformal": 0, "similarity": -50, "term": "smallness" },
+          { "isInformal": 0, "similarity": -50, "term": "tininess" },
+          { "isInformal": 0, "similarity": -50, "term": "unimportance" },
+          { "isInformal": 0, "similarity": -50, "term": "whole" }
+        ],
+        "definition": "number or amount",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "abundance" },
+          { "isInformal": 0, "similarity": 100, "term": "batch" },
+          { "isInformal": 0, "similarity": 100, "term": "bulk" },
+          { "isInformal": 0, "similarity": 100, "term": "capacity" },
+          { "isInformal": 0, "similarity": 100, "term": "length" },
+          { "isInformal": 0, "similarity": 100, "term": "load" },
+          { "isInformal": 0, "similarity": 100, "term": "pile" },
+          { "isInformal": 0, "similarity": 100, "term": "portion" },
+          { "isInformal": 0, "similarity": 100, "term": "quota" },
+          { "isInformal": 0, "similarity": 100, "term": "size" },
+          { "isInformal": 0, "similarity": 100, "term": "sum" },
+          { "isInformal": 0, "similarity": 100, "term": "variety" },
+          { "isInformal": 0, "similarity": 100, "term": "volume" },
+          { "isInformal": 0, "similarity": 50, "term": "aggregate" },
+          { "isInformal": 0, "similarity": 50, "term": "allotment" },
+          { "isInformal": 0, "similarity": 50, "term": "amplitude" },
+          { "isInformal": 0, "similarity": 50, "term": "body" },
+          { "isInformal": 0, "similarity": 50, "term": "budget" },
+          { "isInformal": 0, "similarity": 50, "term": "deal" },
+          { "isInformal": 0, "similarity": 50, "term": "expanse" },
+          { "isInformal": 0, "similarity": 50, "term": "extent" },
+          { "isInformal": 0, "similarity": 50, "term": "figure" },
+          { "isInformal": 0, "similarity": 50, "term": "greatness" },
+          { "isInformal": 0, "similarity": 50, "term": "lot" },
+          { "isInformal": 0, "similarity": 50, "term": "magnitude" },
+          { "isInformal": 0, "similarity": 50, "term": "mass" },
+          { "isInformal": 0, "similarity": 50, "term": "measure" },
+          { "isInformal": 0, "similarity": 50, "term": "multitude" },
+          { "isInformal": 0, "similarity": 50, "term": "part" },
+          { "isInformal": 0, "similarity": 50, "term": "profusion" },
+          { "isInformal": 0, "similarity": 50, "term": "total" }
+        ]
+      }
+    ],
+    "term": "quantity"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "part" },
+          { "isInformal": 0, "similarity": -50, "term": "whole" }
+        ],
+        "definition": "quantity",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 50, "term": "amount" },
+          { "isInformal": 0, "similarity": 50, "term": "measure" },
+          { "isInformal": 0, "similarity": 50, "term": "portion" },
+          { "isInformal": 0, "similarity": 50, "term": "sum" },
+          { "isInformal": 0, "similarity": 50, "term": "total" },
+          { "isInformal": 0, "similarity": 50, "term": "unit" }
+        ]
+      }
+    ],
+    "term": "quantum"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [],
+        "definition": "by quarters",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "periodically" },
+          { "isInformal": 0, "similarity": 10, "term": "once a quarter" },
+          {
+            "isInformal": 0,
+            "similarity": 10,
+            "term": "once every three months"
+          }
+        ]
+      }
+    ],
+    "term": "quarterly"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "agreement" },
+          { "isInformal": 0, "similarity": -100, "term": "answer" },
+          { "isInformal": 0, "similarity": -100, "term": "reply" },
+          { "isInformal": 0, "similarity": -50, "term": "belief" },
+          { "isInformal": 0, "similarity": -50, "term": "certainty" },
+          { "isInformal": 0, "similarity": -50, "term": "confidence" },
+          { "isInformal": 0, "similarity": -50, "term": "faith" },
+          { "isInformal": 0, "similarity": -50, "term": "trust" }
+        ],
+        "definition": "demand for answers",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "inquiry" },
+          { "isInformal": 0, "similarity": 100, "term": "objection" },
+          { "isInformal": 0, "similarity": 100, "term": "question" },
+          { "isInformal": 0, "similarity": 100, "term": "questioning" },
+          { "isInformal": 0, "similarity": 100, "term": "reservation" },
+          { "isInformal": 0, "similarity": 100, "term": "skepticism" },
+          { "isInformal": 0, "similarity": 50, "term": "concern" },
+          { "isInformal": 0, "similarity": 50, "term": "doubt" },
+          { "isInformal": 0, "similarity": 50, "term": "dubiety" },
+          { "isInformal": 0, "similarity": 50, "term": "interrogation" },
+          { "isInformal": 0, "similarity": 50, "term": "interrogatory" },
+          { "isInformal": 0, "similarity": 50, "term": "mistrust" },
+          { "isInformal": 0, "similarity": 50, "term": "problem" },
+          { "isInformal": 0, "similarity": 50, "term": "suspicion" },
+          { "isInformal": 0, "similarity": 50, "term": "uncertainty" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "answer" },
+          { "isInformal": 0, "similarity": -100, "term": "reply" },
+          { "isInformal": 0, "similarity": -50, "term": "be certain" },
+          { "isInformal": 0, "similarity": -50, "term": "believe" },
+          { "isInformal": 0, "similarity": -50, "term": "praise" },
+          { "isInformal": 0, "similarity": -50, "term": "trust" }
+        ],
+        "definition": "ask",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "inquire" },
+          { "isInformal": 0, "similarity": 100, "term": "interrogate" },
+          { "isInformal": 0, "similarity": 100, "term": "quiz" },
+          { "isInformal": 0, "similarity": 50, "term": "catechize" },
+          { "isInformal": 0, "similarity": 50, "term": "challenge" },
+          { "isInformal": 0, "similarity": 50, "term": "disbelieve" },
+          { "isInformal": 0, "similarity": 50, "term": "dispute" },
+          { "isInformal": 0, "similarity": 50, "term": "distrust" },
+          { "isInformal": 0, "similarity": 50, "term": "doubt" },
+          { "isInformal": 0, "similarity": 50, "term": "enquire" },
+          { "isInformal": 0, "similarity": 50, "term": "examine" },
+          { "isInformal": 0, "similarity": 50, "term": "impeach" },
+          { "isInformal": 0, "similarity": 50, "term": "impugn" },
+          { "isInformal": 0, "similarity": 50, "term": "knock" },
+          { "isInformal": 0, "similarity": 50, "term": "mistrust" },
+          { "isInformal": 0, "similarity": 50, "term": "suspect" },
+          { "isInformal": 0, "similarity": 10, "term": "hit up" },
+          {
+            "isInformal": 0,
+            "similarity": 10,
+            "term": "put out a feeler question"
+          },
+          { "isInformal": 0, "similarity": 10, "term": "test the waters" }
+        ]
+      }
+    ],
+    "term": "query"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "answer" },
+          { "isInformal": 0, "similarity": -100, "term": "reply" }
+        ],
+        "definition": "a query",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "inquiry" },
+          { "isInformal": 0, "similarity": 100, "term": "investigation" },
+          { "isInformal": 0, "similarity": 100, "term": "query" },
+          { "isInformal": 0, "similarity": 100, "term": "questioning" },
+          { "isInformal": 0, "similarity": 50, "term": "catechism" },
+          { "isInformal": 0, "similarity": 50, "term": "examination" },
+          { "isInformal": 0, "similarity": 50, "term": "inquest" },
+          { "isInformal": 0, "similarity": 50, "term": "inquiring" },
+          { "isInformal": 0, "similarity": 50, "term": "inquisition" },
+          { "isInformal": 0, "similarity": 50, "term": "interrogation" },
+          { "isInformal": 0, "similarity": 50, "term": "interrogatory" },
+          { "isInformal": 0, "similarity": 50, "term": "poll" },
+          { "isInformal": 0, "similarity": 10, "term": "Q and A" },
+          { "isInformal": 0, "similarity": 10, "term": "third degree" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "agreement" },
+          { "isInformal": 0, "similarity": -100, "term": "answer" },
+          { "isInformal": 0, "similarity": -50, "term": "certainty" }
+        ],
+        "definition": "controversy, doubt",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "argument" },
+          { "isInformal": 0, "similarity": 100, "term": "challenge" },
+          { "isInformal": 0, "similarity": 100, "term": "confusion" },
+          { "isInformal": 0, "similarity": 100, "term": "debate" },
+          { "isInformal": 0, "similarity": 100, "term": "difficulty" },
+          { "isInformal": 0, "similarity": 100, "term": "dispute" },
+          { "isInformal": 0, "similarity": 100, "term": "mystery" },
+          { "isInformal": 0, "similarity": 100, "term": "objection" },
+          { "isInformal": 0, "similarity": 100, "term": "problem" },
+          { "isInformal": 0, "similarity": 100, "term": "query" },
+          { "isInformal": 0, "similarity": 100, "term": "uncertainty" },
+          { "isInformal": 0, "similarity": 50, "term": "contention" },
+          { "isInformal": 0, "similarity": 50, "term": "demur" },
+          { "isInformal": 0, "similarity": 50, "term": "demurral" },
+          { "isInformal": 0, "similarity": 50, "term": "dubiety" },
+          { "isInformal": 0, "similarity": 50, "term": "enigma" },
+          { "isInformal": 0, "similarity": 50, "term": "misgiving" },
+          { "isInformal": 0, "similarity": 50, "term": "protest" },
+          { "isInformal": 0, "similarity": 50, "term": "puzzle" },
+          { "isInformal": 0, "similarity": 50, "term": "remonstrance" },
+          { "isInformal": 0, "similarity": 50, "term": "remonstration" }
+        ]
+      },
+      {
+        "antonyms": [{ "isInformal": 0, "similarity": -10, "term": "answer" }],
+        "definition": "issue, point at issue",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "discussion" },
+          { "isInformal": 0, "similarity": 100, "term": "point" },
+          { "isInformal": 0, "similarity": 100, "term": "problem" },
+          { "isInformal": 0, "similarity": 100, "term": "proposal" },
+          { "isInformal": 0, "similarity": 100, "term": "subject" },
+          { "isInformal": 0, "similarity": 100, "term": "theme" },
+          { "isInformal": 0, "similarity": 100, "term": "topic" },
+          { "isInformal": 0, "similarity": 50, "term": "motion" },
+          { "isInformal": 0, "similarity": 50, "term": "proposition" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "answer" },
+          { "isInformal": 0, "similarity": -100, "term": "reply" }
+        ],
+        "definition": "ask for answer",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "challenge" },
+          { "isInformal": 0, "similarity": 100, "term": "examine" },
+          { "isInformal": 0, "similarity": 100, "term": "grill" },
+          { "isInformal": 0, "similarity": 100, "term": "interrogate" },
+          { "isInformal": 0, "similarity": 100, "term": "interview" },
+          { "isInformal": 0, "similarity": 100, "term": "investigate" },
+          { "isInformal": 0, "similarity": 100, "term": "query" },
+          { "isInformal": 0, "similarity": 100, "term": "quiz" },
+          { "isInformal": 0, "similarity": 100, "term": "search" },
+          { "isInformal": 0, "similarity": 100, "term": "seek" },
+          { "isInformal": 0, "similarity": 50, "term": "catechize" },
+          { "isInformal": 0, "similarity": 50, "term": "enquire" },
+          { "isInformal": 0, "similarity": 50, "term": "hit" },
+          { "isInformal": 0, "similarity": 50, "term": "inquire" },
+          { "isInformal": 0, "similarity": 50, "term": "petition" },
+          { "isInformal": 0, "similarity": 50, "term": "probe" },
+          { "isInformal": 0, "similarity": 50, "term": "pry" },
+          { "isInformal": 0, "similarity": 50, "term": "pump" },
+          { "isInformal": 0, "similarity": 50, "term": "quest" },
+          { "isInformal": 0, "similarity": 50, "term": "solicit" },
+          { "isInformal": 0, "similarity": 10, "term": "ask about" },
+          { "isInformal": 0, "similarity": 10, "term": "cross-examine" },
+          {
+            "isInformal": 0,
+            "similarity": 10,
+            "term": "give the third degree"
+          },
+          { "isInformal": 0, "similarity": 10, "term": "go over" },
+          { "isInformal": 0, "similarity": 10, "term": "hit up" },
+          { "isInformal": 0, "similarity": 10, "term": "hold out for" },
+          { "isInformal": 0, "similarity": 10, "term": "make inquiry" },
+          { "isInformal": 0, "similarity": 10, "term": "pick one's brains" },
+          {
+            "isInformal": 0,
+            "similarity": 10,
+            "term": "put through the wringer"
+          },
+          { "isInformal": 0, "similarity": 10, "term": "put to the question" },
+          { "isInformal": 0, "similarity": 10, "term": "raise question" },
+          { "isInformal": 0, "similarity": 10, "term": "show curiosity" },
+          { "isInformal": 0, "similarity": 10, "term": "sound out" },
+          { "isInformal": 0, "similarity": 10, "term": "sweat it out of" },
+          { "isInformal": 0, "similarity": 10, "term": "work over" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "answer" },
+          { "isInformal": 0, "similarity": -50, "term": "believe" },
+          { "isInformal": 0, "similarity": -50, "term": "trust" }
+        ],
+        "definition": "doubt",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "challenge" },
+          { "isInformal": 0, "similarity": 100, "term": "dispute" },
+          { "isInformal": 0, "similarity": 100, "term": "oppose" },
+          { "isInformal": 0, "similarity": 100, "term": "query" },
+          { "isInformal": 0, "similarity": 100, "term": "suspect" },
+          { "isInformal": 0, "similarity": 50, "term": "controvert" },
+          { "isInformal": 0, "similarity": 50, "term": "disbelieve" },
+          { "isInformal": 0, "similarity": 50, "term": "distrust" },
+          { "isInformal": 0, "similarity": 50, "term": "hesitate" },
+          { "isInformal": 0, "similarity": 50, "term": "impeach" },
+          { "isInformal": 0, "similarity": 50, "term": "impugn" },
+          { "isInformal": 0, "similarity": 50, "term": "mistrust" },
+          { "isInformal": 0, "similarity": 50, "term": "suspicion" },
+          { "isInformal": 0, "similarity": 10, "term": "call into question" },
+          { "isInformal": 0, "similarity": 10, "term": "cast doubt upon" },
+          { "isInformal": 0, "similarity": 10, "term": "puzzle over" },
+          { "isInformal": 0, "similarity": 10, "term": "wonder about" }
+        ]
+      }
+    ],
+    "term": "question"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [],
+        "definition": "inquiry",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "application" },
+          { "isInformal": 0, "similarity": 100, "term": "census" },
+          { "isInformal": 0, "similarity": 100, "term": "sampling" },
+          { "isInformal": 0, "similarity": 100, "term": "survey" },
+          { "isInformal": 0, "similarity": 50, "term": "canvass" },
+          { "isInformal": 0, "similarity": 50, "term": "poll" },
+          { "isInformal": 0, "similarity": 10, "term": "public opinion poll" }
+        ]
+      }
+    ],
+    "term": "questionnaire"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "clumsy" },
+          { "isInformal": 0, "similarity": -100, "term": "delayed" },
+          { "isInformal": 0, "similarity": -100, "term": "idle" },
+          { "isInformal": 0, "similarity": -100, "term": "inactive" },
+          { "isInformal": 0, "similarity": -100, "term": "later" },
+          { "isInformal": 0, "similarity": -100, "term": "lazy" },
+          { "isInformal": 0, "similarity": -100, "term": "leisurely" },
+          { "isInformal": 0, "similarity": -100, "term": "slow" },
+          { "isInformal": 0, "similarity": -100, "term": "sluggish" },
+          { "isInformal": 0, "similarity": -100, "term": "unhurried" },
+          { "isInformal": 0, "similarity": -10, "term": "ignorant" },
+          { "isInformal": 0, "similarity": -10, "term": "stupid" },
+          { "isInformal": 0, "similarity": -10, "term": "uneducated" }
+        ],
+        "definition": "fast, speedy",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "abrupt" },
+          { "isInformal": 0, "similarity": 100, "term": "active" },
+          { "isInformal": 0, "similarity": 100, "term": "agile" },
+          { "isInformal": 0, "similarity": 100, "term": "brief" },
+          { "isInformal": 0, "similarity": 100, "term": "brisk" },
+          { "isInformal": 0, "similarity": 100, "term": "cursory" },
+          { "isInformal": 0, "similarity": 100, "term": "energetic" },
+          { "isInformal": 0, "similarity": 100, "term": "expeditious" },
+          { "isInformal": 0, "similarity": 100, "term": "hasty" },
+          { "isInformal": 0, "similarity": 100, "term": "hurried" },
+          { "isInformal": 0, "similarity": 100, "term": "immediate" },
+          { "isInformal": 0, "similarity": 100, "term": "instantaneous" },
+          { "isInformal": 0, "similarity": 100, "term": "keen" },
+          { "isInformal": 0, "similarity": 100, "term": "nimble" },
+          { "isInformal": 0, "similarity": 100, "term": "rapid" },
+          { "isInformal": 0, "similarity": 100, "term": "sudden" },
+          { "isInformal": 0, "similarity": 100, "term": "swift" },
+          { "isInformal": 0, "similarity": 50, "term": "alert" },
+          { "isInformal": 0, "similarity": 50, "term": "express" },
+          { "isInformal": 0, "similarity": 50, "term": "fleet" },
+          { "isInformal": 0, "similarity": 50, "term": "flying" },
+          { "isInformal": 0, "similarity": 50, "term": "going" },
+          { "isInformal": 0, "similarity": 50, "term": "prompt" },
+          { "isInformal": 0, "similarity": 10, "term": "ASAP" },
+          { "isInformal": 0, "similarity": 10, "term": "a move on" },
+          { "isInformal": 0, "similarity": 10, "term": "accelerated" },
+          { "isInformal": 0, "similarity": 10, "term": "animated" },
+          { "isInformal": 0, "similarity": 10, "term": "breakneck" },
+          { "isInformal": 0, "similarity": 10, "term": "curt" },
+          { "isInformal": 0, "similarity": 10, "term": "double-time" },
+          { "isInformal": 0, "similarity": 10, "term": "expeditive" },
+          { "isInformal": 0, "similarity": 10, "term": "harefooted" },
+          { "isInformal": 0, "similarity": 10, "term": "headlong" },
+          { "isInformal": 0, "similarity": 10, "term": "impatient" },
+          { "isInformal": 0, "similarity": 10, "term": "impetuous" },
+          { "isInformal": 0, "similarity": 10, "term": "lively" },
+          { "isInformal": 0, "similarity": 10, "term": "mercurial" },
+          { "isInformal": 0, "similarity": 10, "term": "move it" },
+          { "isInformal": 0, "similarity": 10, "term": "on the double" },
+          { "isInformal": 0, "similarity": 10, "term": "perfunctory" },
+          { "isInformal": 0, "similarity": 10, "term": "posthaste" },
+          { "isInformal": 0, "similarity": 10, "term": "pronto" },
+          { "isInformal": 0, "similarity": 10, "term": "snappy" },
+          { "isInformal": 0, "similarity": 10, "term": "spirited" },
+          { "isInformal": 0, "similarity": 10, "term": "split-second" },
+          { "isInformal": 0, "similarity": 10, "term": "sprightly" },
+          { "isInformal": 0, "similarity": 10, "term": "spry" },
+          { "isInformal": 0, "similarity": 10, "term": "the lead out" },
+          { "isInformal": 0, "similarity": 10, "term": "winged" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "blunt" },
+          { "isInformal": 0, "similarity": -100, "term": "dull" },
+          { "isInformal": 0, "similarity": -100, "term": "idle" },
+          { "isInformal": 0, "similarity": -100, "term": "ignorant" },
+          { "isInformal": 0, "similarity": -100, "term": "impotent" },
+          { "isInformal": 0, "similarity": -100, "term": "inactive" },
+          { "isInformal": 0, "similarity": -100, "term": "ineffective" },
+          { "isInformal": 0, "similarity": -100, "term": "inept" },
+          { "isInformal": 0, "similarity": -100, "term": "lazy" },
+          { "isInformal": 0, "similarity": -100, "term": "slow" },
+          { "isInformal": 0, "similarity": -100, "term": "stupid" },
+          { "isInformal": 0, "similarity": -100, "term": "unintelligent" },
+          { "isInformal": 0, "similarity": -100, "term": "useless" },
+          { "isInformal": 0, "similarity": -100, "term": "weak" },
+          { "isInformal": 0, "similarity": -50, "term": "clumsy" },
+          { "isInformal": 0, "similarity": -10, "term": "sluggish" },
+          { "isInformal": 0, "similarity": -10, "term": "uneducated" }
+        ],
+        "definition": "smart",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "able" },
+          { "isInformal": 0, "similarity": 100, "term": "active" },
+          { "isInformal": 0, "similarity": 100, "term": "deft" },
+          { "isInformal": 0, "similarity": 100, "term": "effective" },
+          { "isInformal": 0, "similarity": 100, "term": "keen" },
+          { "isInformal": 0, "similarity": 100, "term": "ready" },
+          { "isInformal": 0, "similarity": 100, "term": "sharp" },
+          { "isInformal": 0, "similarity": 100, "term": "vigorous" },
+          { "isInformal": 0, "similarity": 100, "term": "wise" },
+          { "isInformal": 0, "similarity": 50, "term": "acute" },
+          { "isInformal": 0, "similarity": 50, "term": "adept" },
+          { "isInformal": 0, "similarity": 50, "term": "knowing" },
+          { "isInformal": 0, "similarity": 50, "term": "prompt" },
+          { "isInformal": 0, "similarity": 50, "term": "savvy" },
+          { "isInformal": 0, "similarity": 50, "term": "slick" },
+          { "isInformal": 0, "similarity": 50, "term": "whiz" },
+          { "isInformal": 0, "similarity": 10, "term": "adroit" },
+          { "isInformal": 0, "similarity": 10, "term": "all there" },
+          { "isInformal": 0, "similarity": 10, "term": "apt" },
+          { "isInformal": 0, "similarity": 10, "term": "astute" },
+          { "isInformal": 0, "similarity": 10, "term": "bright" },
+          { "isInformal": 0, "similarity": 10, "term": "canny" },
+          { "isInformal": 0, "similarity": 10, "term": "capable" },
+          { "isInformal": 0, "similarity": 10, "term": "clever" },
+          { "isInformal": 0, "similarity": 10, "term": "competent" },
+          { "isInformal": 0, "similarity": 10, "term": "dexterous" },
+          { "isInformal": 0, "similarity": 10, "term": "discerning" },
+          { "isInformal": 0, "similarity": 10, "term": "effectual" },
+          { "isInformal": 0, "similarity": 10, "term": "intelligent" },
+          { "isInformal": 0, "similarity": 10, "term": "nimble-witted" },
+          { "isInformal": 0, "similarity": 10, "term": "on the ball" },
+          { "isInformal": 0, "similarity": 10, "term": "perceptive" },
+          { "isInformal": 0, "similarity": 10, "term": "perspicacious" },
+          { "isInformal": 0, "similarity": 10, "term": "quick on the draw" },
+          { "isInformal": 0, "similarity": 10, "term": "quick on the trigger" },
+          { "isInformal": 0, "similarity": 10, "term": "quick on the uptake" },
+          { "isInformal": 0, "similarity": 10, "term": "quick-witted" },
+          { "isInformal": 0, "similarity": 10, "term": "receptive" },
+          { "isInformal": 0, "similarity": 10, "term": "sharp as a tack" },
+          { "isInformal": 0, "similarity": 10, "term": "shrewd" },
+          { "isInformal": 0, "similarity": 10, "term": "skillful" },
+          { "isInformal": 0, "similarity": 10, "term": "smart as a whip" },
+          { "isInformal": 0, "similarity": 10, "term": "wired" }
+        ]
+      }
+    ],
+    "term": "quick"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "eventually" },
+          { "isInformal": 0, "similarity": -100, "term": "later" },
+          { "isInformal": 0, "similarity": -100, "term": "slowly" }
+        ],
+        "definition": "fast",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "expeditiously" },
+          { "isInformal": 0, "similarity": 100, "term": "hastily" },
+          { "isInformal": 0, "similarity": 100, "term": "hurriedly" },
+          { "isInformal": 0, "similarity": 100, "term": "immediately" },
+          { "isInformal": 0, "similarity": 100, "term": "instantaneously" },
+          { "isInformal": 0, "similarity": 100, "term": "instantly" },
+          { "isInformal": 0, "similarity": 100, "term": "promptly" },
+          { "isInformal": 0, "similarity": 100, "term": "rapidly" },
+          { "isInformal": 0, "similarity": 100, "term": "speedily" },
+          { "isInformal": 0, "similarity": 100, "term": "swiftly" },
+          { "isInformal": 0, "similarity": 50, "term": "apace" },
+          { "isInformal": 0, "similarity": 50, "term": "chop-chop" },
+          { "isInformal": 0, "similarity": 50, "term": "quick" },
+          { "isInformal": 0, "similarity": 10, "term": "briskly" },
+          { "isInformal": 0, "similarity": 10, "term": "flat-out" },
+          { "isInformal": 0, "similarity": 10, "term": "fleetly" },
+          { "isInformal": 0, "similarity": 10, "term": "full tilt" },
+          { "isInformal": 0, "similarity": 10, "term": "in a flash" },
+          { "isInformal": 0, "similarity": 10, "term": "in haste" },
+          { "isInformal": 0, "similarity": 10, "term": "in nothing flat" },
+          { "isInformal": 0, "similarity": 10, "term": "in short order" },
+          { "isInformal": 0, "similarity": 10, "term": "lickety-split" },
+          {
+            "isInformal": 0,
+            "similarity": 10,
+            "term": "like a bat out of hell"
+          },
+          { "isInformal": 0, "similarity": 10, "term": "like a flash" },
+          { "isInformal": 0, "similarity": 10, "term": "like a shot" },
+          { "isInformal": 0, "similarity": 10, "term": "pronto" },
+          { "isInformal": 0, "similarity": 10, "term": "swift" }
+        ]
+      }
+    ],
+    "term": "quickly"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "clamorous" },
+          { "isInformal": 0, "similarity": -100, "term": "communicative" },
+          { "isInformal": 0, "similarity": -100, "term": "noisy" },
+          { "isInformal": 0, "similarity": -50, "term": "unreserved" },
+          { "isInformal": 0, "similarity": -10, "term": "agitated" },
+          { "isInformal": 0, "similarity": -10, "term": "boisterous" },
+          { "isInformal": 0, "similarity": -10, "term": "complex" },
+          { "isInformal": 0, "similarity": -10, "term": "complicated" },
+          { "isInformal": 0, "similarity": -10, "term": "intricate" },
+          { "isInformal": 0, "similarity": -10, "term": "loud" },
+          { "isInformal": 0, "similarity": -10, "term": "obtrusive" },
+          { "isInformal": 0, "similarity": -10, "term": "troubled" }
+        ],
+        "definition": "without or with little sound",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "muted" },
+          { "isInformal": 0, "similarity": 100, "term": "peaceful" },
+          { "isInformal": 0, "similarity": 100, "term": "reticent" },
+          { "isInformal": 0, "similarity": 100, "term": "silent" },
+          { "isInformal": 0, "similarity": 100, "term": "soft" },
+          { "isInformal": 0, "similarity": 50, "term": "close" },
+          { "isInformal": 0, "similarity": 50, "term": "hushed" },
+          { "isInformal": 0, "similarity": 50, "term": "low" },
+          { "isInformal": 0, "similarity": 50, "term": "muffled" },
+          { "isInformal": 0, "similarity": 50, "term": "mute" },
+          { "isInformal": 0, "similarity": 50, "term": "quieted" },
+          { "isInformal": 0, "similarity": 50, "term": "reserved" },
+          { "isInformal": 0, "similarity": 50, "term": "still" },
+          { "isInformal": 0, "similarity": 50, "term": "stilled" },
+          { "isInformal": 0, "similarity": 50, "term": "whist" },
+          { "isInformal": 0, "similarity": 10, "term": "buttoned-up" },
+          { "isInformal": 0, "similarity": 10, "term": "clammed up" },
+          { "isInformal": 0, "similarity": 10, "term": "close-mouthed" },
+          {
+            "isInformal": 0,
+            "similarity": 10,
+            "term": "could hear a pin drop"
+          },
+          { "isInformal": 0, "similarity": 10, "term": "dumb" },
+          { "isInformal": 0, "similarity": 10, "term": "hushful" },
+          { "isInformal": 0, "similarity": 10, "term": "inaudible" },
+          { "isInformal": 0, "similarity": 10, "term": "low-pitched" },
+          { "isInformal": 0, "similarity": 10, "term": "noiseless" },
+          { "isInformal": 0, "similarity": 10, "term": "not saying boo" },
+          { "isInformal": 0, "similarity": 10, "term": "quiescent" },
+          { "isInformal": 0, "similarity": 10, "term": "secretive" },
+          { "isInformal": 0, "similarity": 10, "term": "soundless" },
+          { "isInformal": 0, "similarity": 10, "term": "speechless" },
+          { "isInformal": 0, "similarity": 10, "term": "taciturn" },
+          { "isInformal": 0, "similarity": 10, "term": "tight-lipped" },
+          { "isInformal": 0, "similarity": 10, "term": "uncommunicative" },
+          { "isInformal": 0, "similarity": 10, "term": "unexpressed" },
+          { "isInformal": 0, "similarity": 10, "term": "unspeaking" },
+          { "isInformal": 0, "similarity": 10, "term": "unuttered" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "agitated" },
+          { "isInformal": 0, "similarity": -100, "term": "excited" },
+          { "isInformal": 0, "similarity": -100, "term": "harsh" },
+          { "isInformal": 0, "similarity": -100, "term": "loud" },
+          { "isInformal": 0, "similarity": -100, "term": "open" },
+          { "isInformal": 0, "similarity": -100, "term": "public" },
+          { "isInformal": 0, "similarity": -100, "term": "rough" },
+          { "isInformal": 0, "similarity": -100, "term": "sociable" },
+          { "isInformal": 0, "similarity": -100, "term": "troubled" },
+          { "isInformal": 0, "similarity": -100, "term": "violent" },
+          { "isInformal": 0, "similarity": -100, "term": "wild" },
+          { "isInformal": 0, "similarity": -50, "term": "friendly" },
+          { "isInformal": 0, "similarity": -50, "term": "upset" },
+          { "isInformal": 0, "similarity": -10, "term": "boisterous" },
+          { "isInformal": 0, "similarity": -10, "term": "clamorous" },
+          { "isInformal": 0, "similarity": -10, "term": "complex" },
+          { "isInformal": 0, "similarity": -10, "term": "complicated" },
+          { "isInformal": 0, "similarity": -10, "term": "intricate" },
+          { "isInformal": 0, "similarity": -10, "term": "noisy" },
+          { "isInformal": 0, "similarity": -10, "term": "obtrusive" }
+        ],
+        "definition": "calm, peaceful",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "gentle" },
+          { "isInformal": 0, "similarity": 100, "term": "mild" },
+          { "isInformal": 0, "similarity": 100, "term": "placid" },
+          { "isInformal": 0, "similarity": 100, "term": "private" },
+          { "isInformal": 0, "similarity": 100, "term": "secluded" },
+          { "isInformal": 0, "similarity": 100, "term": "sedate" },
+          { "isInformal": 0, "similarity": 100, "term": "serene" },
+          { "isInformal": 0, "similarity": 100, "term": "shy" },
+          { "isInformal": 0, "similarity": 100, "term": "smooth" },
+          { "isInformal": 0, "similarity": 100, "term": "stable" },
+          { "isInformal": 0, "similarity": 100, "term": "tranquil" },
+          { "isInformal": 0, "similarity": 50, "term": "collected" },
+          { "isInformal": 0, "similarity": 50, "term": "contented" },
+          { "isInformal": 0, "similarity": 50, "term": "fixed" },
+          { "isInformal": 0, "similarity": 50, "term": "halcyon" },
+          { "isInformal": 0, "similarity": 50, "term": "hushed" },
+          { "isInformal": 0, "similarity": 50, "term": "isolated" },
+          { "isInformal": 0, "similarity": 50, "term": "level" },
+          { "isInformal": 0, "similarity": 50, "term": "pacific" },
+          { "isInformal": 0, "similarity": 50, "term": "remote" },
+          { "isInformal": 0, "similarity": 50, "term": "reserved" },
+          { "isInformal": 0, "similarity": 50, "term": "retired" },
+          { "isInformal": 0, "similarity": 50, "term": "secret" },
+          { "isInformal": 0, "similarity": 50, "term": "sequestered" },
+          { "isInformal": 0, "similarity": 50, "term": "still" },
+          { "isInformal": 0, "similarity": 10, "term": "docile" },
+          { "isInformal": 0, "similarity": 10, "term": "inactive" },
+          { "isInformal": 0, "similarity": 10, "term": "meek" },
+          { "isInformal": 0, "similarity": 10, "term": "motionless" },
+          { "isInformal": 0, "similarity": 10, "term": "restful" },
+          { "isInformal": 0, "similarity": 10, "term": "stagnant" },
+          { "isInformal": 0, "similarity": 10, "term": "unanxious" },
+          { "isInformal": 0, "similarity": 10, "term": "undisturbed" },
+          { "isInformal": 0, "similarity": 10, "term": "unexcited" },
+          { "isInformal": 0, "similarity": 10, "term": "unfrequented" },
+          { "isInformal": 0, "similarity": 10, "term": "unruffled" },
+          { "isInformal": 0, "similarity": 10, "term": "untroubled" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "assured" },
+          { "isInformal": 0, "similarity": -100, "term": "bold" },
+          { "isInformal": 0, "similarity": -100, "term": "brave" },
+          { "isInformal": 0, "similarity": -100, "term": "confident" },
+          { "isInformal": 0, "similarity": -100, "term": "excited" },
+          { "isInformal": 0, "similarity": -100, "term": "presumptuous" },
+          { "isInformal": 0, "similarity": -10, "term": "agitated" },
+          { "isInformal": 0, "similarity": -10, "term": "boisterous" },
+          { "isInformal": 0, "similarity": -10, "term": "clamorous" },
+          { "isInformal": 0, "similarity": -10, "term": "complex" },
+          { "isInformal": 0, "similarity": -10, "term": "complicated" },
+          { "isInformal": 0, "similarity": -10, "term": "intricate" },
+          { "isInformal": 0, "similarity": -10, "term": "loud" },
+          { "isInformal": 0, "similarity": -10, "term": "noisy" },
+          { "isInformal": 0, "similarity": -10, "term": "obtrusive" },
+          { "isInformal": 0, "similarity": -10, "term": "troubled" }
+        ],
+        "definition": "simple, unobtrusive",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adj",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "modest" },
+          { "isInformal": 0, "similarity": 100, "term": "restrained" },
+          { "isInformal": 0, "similarity": 100, "term": "sober" },
+          { "isInformal": 0, "similarity": 100, "term": "subdued" },
+          { "isInformal": 0, "similarity": 100, "term": "unassuming" },
+          { "isInformal": 0, "similarity": 100, "term": "unpretentious" },
+          { "isInformal": 0, "similarity": 50, "term": "conservative" },
+          { "isInformal": 0, "similarity": 50, "term": "plain" },
+          { "isInformal": 0, "similarity": 10, "term": "homely" },
+          { "isInformal": 0, "similarity": 10, "term": "inobtrusive" },
+          { "isInformal": 0, "similarity": 10, "term": "tasteful" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "agitation" },
+          { "isInformal": 0, "similarity": -50, "term": "beginning" },
+          { "isInformal": 0, "similarity": -50, "term": "continuation" },
+          { "isInformal": 0, "similarity": -50, "term": "disturbance" },
+          { "isInformal": 0, "similarity": -50, "term": "energy" },
+          { "isInformal": 0, "similarity": -50, "term": "start" },
+          { "isInformal": 0, "similarity": -10, "term": "clamor" },
+          { "isInformal": 0, "similarity": -10, "term": "clangor" },
+          { "isInformal": 0, "similarity": -10, "term": "loudness" },
+          { "isInformal": 0, "similarity": -10, "term": "noise" }
+        ],
+        "definition": "calmness, silence",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "calm" },
+          { "isInformal": 0, "similarity": 100, "term": "peace" },
+          { "isInformal": 0, "similarity": 100, "term": "relaxation" },
+          { "isInformal": 0, "similarity": 100, "term": "serenity" },
+          { "isInformal": 0, "similarity": 100, "term": "stillness" },
+          { "isInformal": 0, "similarity": 100, "term": "tranquillity" },
+          { "isInformal": 0, "similarity": 50, "term": "cessation" },
+          { "isInformal": 0, "similarity": 50, "term": "ease" },
+          { "isInformal": 0, "similarity": 50, "term": "hush" },
+          { "isInformal": 0, "similarity": 50, "term": "lull" },
+          { "isInformal": 0, "similarity": 50, "term": "noiselessness" },
+          { "isInformal": 0, "similarity": 50, "term": "quietness" },
+          { "isInformal": 0, "similarity": 50, "term": "quietude" },
+          { "isInformal": 0, "similarity": 50, "term": "repose" },
+          { "isInformal": 0, "similarity": 50, "term": "rest" },
+          { "isInformal": 0, "similarity": 50, "term": "soundlessness" },
+          { "isInformal": 0, "similarity": 50, "term": "speechlessness" },
+          { "isInformal": 0, "similarity": 50, "term": "still" },
+          { "isInformal": 0, "similarity": 50, "term": "stop" },
+          { "isInformal": 0, "similarity": 50, "term": "termination" },
+          { "isInformal": 0, "similarity": 10, "term": "dead air" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "agitate" },
+          { "isInformal": 0, "similarity": -100, "term": "anger" },
+          { "isInformal": 0, "similarity": -100, "term": "annoy" },
+          { "isInformal": 0, "similarity": -100, "term": "depress" },
+          { "isInformal": 0, "similarity": -100, "term": "incite" },
+          { "isInformal": 0, "similarity": -100, "term": "irritate" },
+          { "isInformal": 0, "similarity": -100, "term": "provoke" },
+          { "isInformal": 0, "similarity": -100, "term": "release" },
+          { "isInformal": 0, "similarity": -100, "term": "trouble" },
+          { "isInformal": 0, "similarity": -100, "term": "upset" },
+          { "isInformal": 0, "similarity": -100, "term": "worry" },
+          { "isInformal": 0, "similarity": -50, "term": "aggravate" },
+          { "isInformal": 0, "similarity": -50, "term": "disagree" },
+          { "isInformal": 0, "similarity": -50, "term": "disturb" },
+          { "isInformal": 0, "similarity": -50, "term": "excite" },
+          { "isInformal": 0, "similarity": -50, "term": "move" },
+          { "isInformal": 0, "similarity": -10, "term": "turn up" }
+        ],
+        "definition": "make silent, calm",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "allay" },
+          { "isInformal": 0, "similarity": 100, "term": "appease" },
+          { "isInformal": 0, "similarity": 100, "term": "assuage" },
+          { "isInformal": 0, "similarity": 100, "term": "hush" },
+          { "isInformal": 0, "similarity": 100, "term": "mollify" },
+          { "isInformal": 0, "similarity": 100, "term": "muffle" },
+          { "isInformal": 0, "similarity": 100, "term": "muzzle" },
+          { "isInformal": 0, "similarity": 100, "term": "pacify" },
+          { "isInformal": 0, "similarity": 100, "term": "please" },
+          { "isInformal": 0, "similarity": 100, "term": "relax" },
+          { "isInformal": 0, "similarity": 100, "term": "satisfy" },
+          { "isInformal": 0, "similarity": 100, "term": "soften" },
+          { "isInformal": 0, "similarity": 100, "term": "soothe" },
+          { "isInformal": 0, "similarity": 100, "term": "squelch" },
+          { "isInformal": 0, "similarity": 100, "term": "subdue" },
+          { "isInformal": 0, "similarity": 50, "term": "ameliorate" },
+          { "isInformal": 0, "similarity": 50, "term": "becalm" },
+          { "isInformal": 0, "similarity": 50, "term": "choke" },
+          { "isInformal": 0, "similarity": 50, "term": "compose" },
+          { "isInformal": 0, "similarity": 50, "term": "console" },
+          { "isInformal": 0, "similarity": 50, "term": "gag" },
+          { "isInformal": 0, "similarity": 50, "term": "gratify" },
+          { "isInformal": 0, "similarity": 50, "term": "ice" },
+          { "isInformal": 0, "similarity": 50, "term": "inactivate" },
+          { "isInformal": 0, "similarity": 50, "term": "lull" },
+          { "isInformal": 0, "similarity": 50, "term": "moderate" },
+          { "isInformal": 0, "similarity": 50, "term": "palliate" },
+          { "isInformal": 0, "similarity": 50, "term": "quieten" },
+          { "isInformal": 0, "similarity": 50, "term": "reconcile" },
+          { "isInformal": 0, "similarity": 50, "term": "settle" },
+          { "isInformal": 0, "similarity": 50, "term": "shush" },
+          { "isInformal": 0, "similarity": 50, "term": "silence" },
+          { "isInformal": 0, "similarity": 50, "term": "slack" },
+          { "isInformal": 0, "similarity": 50, "term": "smooth" },
+          { "isInformal": 0, "similarity": 50, "term": "soft pedal" },
+          { "isInformal": 0, "similarity": 50, "term": "square" },
+          { "isInformal": 0, "similarity": 50, "term": "squash" },
+          { "isInformal": 0, "similarity": 50, "term": "still" },
+          { "isInformal": 0, "similarity": 50, "term": "stroke" },
+          { "isInformal": 0, "similarity": 50, "term": "tranquilize" },
+          { "isInformal": 0, "similarity": 10, "term": "button one's lip" },
+          { "isInformal": 0, "similarity": 10, "term": "calm down" },
+          { "isInformal": 0, "similarity": 10, "term": "can it" },
+          { "isInformal": 0, "similarity": 10, "term": "clam up" },
+          { "isInformal": 0, "similarity": 10, "term": "cool it" },
+          { "isInformal": 0, "similarity": 10, "term": "cool out" },
+          { "isInformal": 0, "similarity": 10, "term": "dummy up" },
+          { "isInformal": 0, "similarity": 10, "term": "fix up" },
+          { "isInformal": 0, "similarity": 10, "term": "hold it down" },
+          { "isInformal": 0, "similarity": 10, "term": "patch things up" },
+          { "isInformal": 0, "similarity": 10, "term": "shut up" },
+          { "isInformal": 0, "similarity": 10, "term": "take the bite out of" }
+        ]
+      }
+    ],
+    "term": "quiet"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "audibly" },
+          { "isInformal": 0, "similarity": -10, "term": "loudly" },
+          { "isInformal": 0, "similarity": -10, "term": "publicly" }
+        ],
+        "definition": "silently",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "softly" },
+          { "isInformal": 0, "similarity": 10, "term": "faintly" },
+          { "isInformal": 0, "similarity": 10, "term": "in a low voice" },
+          { "isInformal": 0, "similarity": 10, "term": "in a whisper" },
+          { "isInformal": 0, "similarity": 10, "term": "in low tones" },
+          { "isInformal": 0, "similarity": 10, "term": "in silence" },
+          { "isInformal": 0, "similarity": 10, "term": "inaudibly" },
+          { "isInformal": 0, "similarity": 10, "term": "murmuring" },
+          { "isInformal": 0, "similarity": 10, "term": "noiselessly" },
+          { "isInformal": 0, "similarity": 10, "term": "sotto voce" },
+          { "isInformal": 0, "similarity": 10, "term": "soundlessly" },
+          { "isInformal": 0, "similarity": 10, "term": "tacitly" },
+          { "isInformal": 0, "similarity": 10, "term": "under one's breath" },
+          { "isInformal": 0, "similarity": 10, "term": "weakly" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "audibly" },
+          { "isInformal": 0, "similarity": -10, "term": "loudly" },
+          { "isInformal": 0, "similarity": -10, "term": "publicly" }
+        ],
+        "definition": "discreetly",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "privately" },
+          { "isInformal": 0, "similarity": 100, "term": "secretly" },
+          { "isInformal": 0, "similarity": 10, "term": "confidentially" },
+          { "isInformal": 0, "similarity": 10, "term": "conservatively" },
+          { "isInformal": 0, "similarity": 10, "term": "off the record" },
+          { "isInformal": 0, "similarity": 10, "term": "unobtrusively" },
+          { "isInformal": 0, "similarity": 10, "term": "unofficially" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "audibly" },
+          { "isInformal": 0, "similarity": -10, "term": "loudly" },
+          { "isInformal": 0, "similarity": -10, "term": "publicly" }
+        ],
+        "definition": "calmly",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "patiently" },
+          { "isInformal": 0, "similarity": 100, "term": "serenely" },
+          { "isInformal": 0, "similarity": 10, "term": "placidly" },
+          { "isInformal": 0, "similarity": 10, "term": "unassumingly" }
+        ]
+      }
+    ],
+    "term": "quietly"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "allow" },
+          { "isInformal": 0, "similarity": -100, "term": "begin" },
+          { "isInformal": 0, "similarity": -100, "term": "continue" },
+          { "isInformal": 0, "similarity": -100, "term": "enter" },
+          { "isInformal": 0, "similarity": -100, "term": "join" },
+          { "isInformal": 0, "similarity": -100, "term": "stay" },
+          { "isInformal": 0, "similarity": -50, "term": "arrive" },
+          { "isInformal": 0, "similarity": -50, "term": "come in" },
+          { "isInformal": 0, "similarity": -10, "term": "come" },
+          { "isInformal": 0, "similarity": -10, "term": "complete" },
+          { "isInformal": 0, "similarity": -10, "term": "do" },
+          { "isInformal": 0, "similarity": -10, "term": "finish" },
+          { "isInformal": 0, "similarity": -10, "term": "persevere" },
+          { "isInformal": 0, "similarity": -10, "term": "remain" }
+        ],
+        "definition": "abandon, leave",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "depart" },
+          { "isInformal": 0, "similarity": 100, "term": "drop" },
+          { "isInformal": 0, "similarity": 100, "term": "drop out" },
+          { "isInformal": 0, "similarity": 100, "term": "give up" },
+          { "isInformal": 0, "similarity": 100, "term": "go" },
+          { "isInformal": 0, "similarity": 100, "term": "pull out" },
+          { "isInformal": 0, "similarity": 100, "term": "relinquish" },
+          { "isInformal": 0, "similarity": 100, "term": "renounce" },
+          { "isInformal": 0, "similarity": 100, "term": "retire" },
+          { "isInformal": 0, "similarity": 100, "term": "surrender" },
+          { "isInformal": 0, "similarity": 100, "term": "vacate" },
+          { "isInformal": 0, "similarity": 100, "term": "withdraw" },
+          { "isInformal": 0, "similarity": 50, "term": "abdicate" },
+          { "isInformal": 0, "similarity": 50, "term": "blow" },
+          { "isInformal": 0, "similarity": 50, "term": "book" },
+          { "isInformal": 0, "similarity": 50, "term": "decamp" },
+          { "isInformal": 0, "similarity": 50, "term": "desert" },
+          { "isInformal": 0, "similarity": 50, "term": "evacuate" },
+          { "isInformal": 0, "similarity": 50, "term": "exit" },
+          { "isInformal": 0, "similarity": 50, "term": "forsake" },
+          { "isInformal": 0, "similarity": 50, "term": "resign" },
+          { "isInformal": 0, "similarity": 50, "term": "yield" },
+          { "isInformal": 0, "similarity": 10, "term": "bow out" },
+          { "isInformal": 0, "similarity": 10, "term": "check out" },
+          { "isInformal": 0, "similarity": 10, "term": "cut out" },
+          { "isInformal": 0, "similarity": 10, "term": "get off" },
+          { "isInformal": 0, "similarity": 10, "term": "go away from" },
+          { "isInformal": 0, "similarity": 10, "term": "hang it up" },
+          { "isInformal": 0, "similarity": 10, "term": "leave flat" },
+          { "isInformal": 0, "similarity": 10, "term": "leave hanging" },
+          { "isInformal": 0, "similarity": 10, "term": "push off" },
+          { "isInformal": 0, "similarity": 10, "term": "run out on" },
+          { "isInformal": 0, "similarity": 10, "term": "take a walk" },
+          { "isInformal": 0, "similarity": 10, "term": "take off" },
+          { "isInformal": 0, "similarity": 10, "term": "throw over" },
+          { "isInformal": 0, "similarity": 10, "term": "walk out on" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "begin" },
+          { "isInformal": 0, "similarity": -100, "term": "carry on" },
+          { "isInformal": 0, "similarity": -100, "term": "commence" },
+          { "isInformal": 0, "similarity": -100, "term": "continue" },
+          { "isInformal": 0, "similarity": -100, "term": "go" },
+          { "isInformal": 0, "similarity": -100, "term": "initiate" },
+          { "isInformal": 0, "similarity": -100, "term": "join" },
+          { "isInformal": 0, "similarity": -100, "term": "keep" },
+          { "isInformal": 0, "similarity": -100, "term": "pursue" },
+          { "isInformal": 0, "similarity": -100, "term": "rise" },
+          { "isInformal": 0, "similarity": -100, "term": "start" },
+          { "isInformal": 0, "similarity": -10, "term": "come" },
+          { "isInformal": 0, "similarity": -10, "term": "complete" },
+          { "isInformal": 0, "similarity": -10, "term": "do" },
+          { "isInformal": 0, "similarity": -10, "term": "finish" },
+          { "isInformal": 0, "similarity": -10, "term": "persevere" },
+          { "isInformal": 0, "similarity": -10, "term": "remain" },
+          { "isInformal": 0, "similarity": -10, "term": "stay" }
+        ],
+        "definition": "stop doing something",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "abandon" },
+          { "isInformal": 0, "similarity": 100, "term": "break off" },
+          { "isInformal": 0, "similarity": 100, "term": "cease" },
+          { "isInformal": 0, "similarity": 100, "term": "conclude" },
+          { "isInformal": 0, "similarity": 100, "term": "discontinue" },
+          { "isInformal": 0, "similarity": 100, "term": "drop" },
+          { "isInformal": 0, "similarity": 100, "term": "give up" },
+          { "isInformal": 0, "similarity": 100, "term": "halt" },
+          { "isInformal": 0, "similarity": 100, "term": "leave" },
+          { "isInformal": 0, "similarity": 100, "term": "retire" },
+          { "isInformal": 0, "similarity": 100, "term": "suspend" },
+          { "isInformal": 0, "similarity": 100, "term": "terminate" },
+          { "isInformal": 0, "similarity": 100, "term": "withdraw" },
+          { "isInformal": 0, "similarity": 50, "term": "desist" },
+          { "isInformal": 0, "similarity": 50, "term": "end" },
+          { "isInformal": 0, "similarity": 50, "term": "resign" },
+          { "isInformal": 0, "similarity": 50, "term": "secede" },
+          { "isInformal": 0, "similarity": 10, "term": "call it a day" },
+          { "isInformal": 0, "similarity": 10, "term": "call it quits" },
+          { "isInformal": 0, "similarity": 10, "term": "cut it out" },
+          { "isInformal": 0, "similarity": 10, "term": "get on the wagon" },
+          { "isInformal": 0, "similarity": 10, "term": "give notice" },
+          { "isInformal": 0, "similarity": 10, "term": "give over" },
+          { "isInformal": 0, "similarity": 10, "term": "hang it up" },
+          { "isInformal": 0, "similarity": 10, "term": "kick over" },
+          { "isInformal": 0, "similarity": 10, "term": "kick the habit" },
+          { "isInformal": 0, "similarity": 10, "term": "knock off" },
+          { "isInformal": 0, "similarity": 10, "term": "leave off" },
+          { "isInformal": 0, "similarity": 10, "term": "pack in" },
+          { "isInformal": 0, "similarity": 10, "term": "quit cold" },
+          { "isInformal": 0, "similarity": 10, "term": "sew up" },
+          { "isInformal": 0, "similarity": 10, "term": "surcease" },
+          { "isInformal": 0, "similarity": 10, "term": "take the cure" },
+          { "isInformal": 0, "similarity": 10, "term": "wind up" },
+          { "isInformal": 0, "similarity": 10, "term": "wrap up" }
+        ]
+      }
+    ],
+    "term": "quit"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "doubtfully" },
+          { "isInformal": 0, "similarity": -100, "term": "inadequately" },
+          { "isInformal": 0, "similarity": -100, "term": "incompletely" },
+          { "isInformal": 0, "similarity": -100, "term": "indefinite" },
+          { "isInformal": 0, "similarity": -100, "term": "partially" },
+          { "isInformal": 0, "similarity": -100, "term": "partly" }
+        ],
+        "definition": "completely",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "absolutely" },
+          { "isInformal": 0, "similarity": 100, "term": "actually" },
+          { "isInformal": 0, "similarity": 100, "term": "altogether" },
+          { "isInformal": 0, "similarity": 100, "term": "entirely" },
+          { "isInformal": 0, "similarity": 100, "term": "fully" },
+          { "isInformal": 0, "similarity": 100, "term": "largely" },
+          { "isInformal": 0, "similarity": 100, "term": "perfectly" },
+          { "isInformal": 0, "similarity": 100, "term": "really" },
+          { "isInformal": 0, "similarity": 100, "term": "thoroughly" },
+          { "isInformal": 0, "similarity": 100, "term": "totally" },
+          { "isInformal": 0, "similarity": 100, "term": "truly" },
+          { "isInformal": 0, "similarity": 100, "term": "utterly" },
+          { "isInformal": 0, "similarity": 100, "term": "wholly" },
+          { "isInformal": 0, "similarity": 10, "term": "all" },
+          { "isInformal": 0, "similarity": 10, "term": "all in all" },
+          { "isInformal": 0, "similarity": 10, "term": "all told" },
+          { "isInformal": 0, "similarity": 10, "term": "considerably" },
+          { "isInformal": 0, "similarity": 10, "term": "in all respects" },
+          { "isInformal": 0, "similarity": 10, "term": "in fact" },
+          { "isInformal": 0, "similarity": 10, "term": "in reality" },
+          { "isInformal": 0, "similarity": 10, "term": "in toto" },
+          { "isInformal": 0, "similarity": 10, "term": "in truth" },
+          { "isInformal": 0, "similarity": 10, "term": "just" },
+          { "isInformal": 0, "similarity": 10, "term": "positively" },
+          { "isInformal": 0, "similarity": 10, "term": "precisely" },
+          { "isInformal": 0, "similarity": 10, "term": "purely" },
+          { "isInformal": 0, "similarity": 10, "term": "well" },
+          { "isInformal": 0, "similarity": 10, "term": "without reservation" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "little" },
+          { "isInformal": 0, "similarity": -10, "term": "incompletely" }
+        ],
+        "definition": "to a certain extent",
+        "isInformal": "0",
+        "note": null,
+        "pos": "adv",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "fairly" },
+          { "isInformal": 0, "similarity": 100, "term": "pretty" },
+          { "isInformal": 0, "similarity": 100, "term": "rather" },
+          { "isInformal": 0, "similarity": 100, "term": "reasonably" },
+          { "isInformal": 0, "similarity": 100, "term": "relatively" },
+          { "isInformal": 0, "similarity": 100, "term": "somewhat" },
+          { "isInformal": 0, "similarity": 100, "term": "very" },
+          { "isInformal": 0, "similarity": 10, "term": "considerably" },
+          { "isInformal": 0, "similarity": 10, "term": "far" },
+          { "isInformal": 0, "similarity": 10, "term": "moderately" },
+          { "isInformal": 0, "similarity": 10, "term": "more or less" },
+          { "isInformal": 0, "similarity": 10, "term": "significantly" },
+          { "isInformal": 0, "similarity": 10, "term": "to some degree" }
+        ]
+      }
+    ],
+    "term": "quite"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -10, "term": "answer" },
+          { "isInformal": 0, "similarity": -10, "term": "reply" }
+        ],
+        "definition": "questioning, often in an organized academic setting",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "query" },
+          { "isInformal": 0, "similarity": 50, "term": "check" },
+          { "isInformal": 0, "similarity": 50, "term": "exam" },
+          { "isInformal": 0, "similarity": 50, "term": "examination" },
+          { "isInformal": 0, "similarity": 50, "term": "investigation" },
+          { "isInformal": 0, "similarity": 50, "term": "shotgun" },
+          { "isInformal": 0, "similarity": 50, "term": "test" },
+          { "isInformal": 0, "similarity": 10, "term": "blue book" }
+        ]
+      },
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "answer" },
+          { "isInformal": 0, "similarity": -100, "term": "reply" }
+        ],
+        "definition": "question",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "grill" },
+          { "isInformal": 0, "similarity": 100, "term": "inquire" },
+          { "isInformal": 0, "similarity": 100, "term": "interrogate" },
+          { "isInformal": 0, "similarity": 100, "term": "investigate" },
+          { "isInformal": 0, "similarity": 100, "term": "query" },
+          { "isInformal": 0, "similarity": 50, "term": "ask" },
+          { "isInformal": 0, "similarity": 50, "term": "catechize" },
+          { "isInformal": 0, "similarity": 50, "term": "check" },
+          { "isInformal": 0, "similarity": 50, "term": "examine" },
+          { "isInformal": 0, "similarity": 50, "term": "pump" },
+          { "isInformal": 0, "similarity": 50, "term": "test" },
+          { "isInformal": 0, "similarity": 10, "term": "cross-examine" },
+          {
+            "isInformal": 0,
+            "similarity": 10,
+            "term": "give the third degree"
+          },
+          { "isInformal": 0, "similarity": 10, "term": "pick one's brains" }
+        ]
+      }
+    ],
+    "term": "quiz"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -100, "term": "whole" },
+          { "isInformal": 0, "similarity": -50, "term": "refusal" }
+        ],
+        "definition": "citation",
+        "isInformal": "0",
+        "note": null,
+        "pos": "noun",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "excerpt" },
+          { "isInformal": 0, "similarity": 100, "term": "passage" },
+          { "isInformal": 0, "similarity": 100, "term": "quote" },
+          { "isInformal": 0, "similarity": 100, "term": "reference" },
+          { "isInformal": 0, "similarity": 50, "term": "estimate" },
+          { "isInformal": 0, "similarity": 50, "term": "offer" },
+          { "isInformal": 0, "similarity": 50, "term": "price" },
+          { "isInformal": 0, "similarity": 50, "term": "selection" }
+        ]
+      }
+    ],
+    "term": "quotation"
+  },
+  {
+    "data": [
+      {
+        "antonyms": [
+          { "isInformal": 0, "similarity": -50, "term": "hide" },
+          { "isInformal": 0, "similarity": -50, "term": "insert" }
+        ],
+        "definition": "repeat something spoken, written by another",
+        "isInformal": "0",
+        "note": null,
+        "pos": "verb",
+        "synonyms": [
+          { "isInformal": 0, "similarity": 100, "term": "cite" },
+          { "isInformal": 0, "similarity": 100, "term": "name" },
+          { "isInformal": 0, "similarity": 100, "term": "recall" },
+          { "isInformal": 0, "similarity": 100, "term": "refer to" },
+          { "isInformal": 0, "similarity": 50, "term": "adduce" },
+          { "isInformal": 0, "similarity": 50, "term": "attest" },
+          { "isInformal": 0, "similarity": 50, "term": "detail" },
+          { "isInformal": 0, "similarity": 50, "term": "excerpt" },
+          { "isInformal": 0, "similarity": 50, "term": "extract" },
+          { "isInformal": 0, "similarity": 50, "term": "instance" },
+          { "isInformal": 0, "similarity": 50, "term": "paraphrase" },
+          { "isInformal": 0, "similarity": 50, "term": "parrot" },
+          { "isInformal": 0, "similarity": 50, "term": "proclaim" },
+          { "isInformal": 0, "similarity": 50, "term": "recite" },
+          { "isInformal": 0, "similarity": 50, "term": "recollect" },
+          { "isInformal": 0, "similarity": 50, "term": "reference" },
+          { "isInformal": 0, "similarity": 50, "term": "retell" }
+        ]
+      }
+    ],
+    "term": "quote"
+  }
+]
