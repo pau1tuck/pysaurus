@@ -1,0 +1,27 @@
+{
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": true,
+    "todohighlight.keywordsPattern": "TODO:|FIXME:|\\(([^)]+)\\)",
+    "todohighlight.defaultStyle": {
+        "color": "red",
+        "backgroundColor": "#ffab00",
+        "overviewRulerColor": "#ffab00",
+        "cursor": "pointer",
+        "border": "1px solid #eee",
+        "borderRadius": "1px",
+        "isWholeLine": true,
+        //other styling properties goes here ...
+    },
+    "todohighlight.keywords": [
+        {
+            "text": "NOTE:",
+            "color": "white",
+            "backgroundColor": "black",
+            "overviewRulerColor": "grey"
+        },
+    ],
+    "todohighlight.exclude": [
+        "**/.vscode/",
+        "**/env/",
+    ],
+}
