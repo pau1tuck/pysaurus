@@ -1,7 +1,7 @@
 {
   "name": "pysaurus",
   "version": "0.1.0",
-  "description": "A sophisticated English thesaurus with synonyms, antonyms, and word proximity readings.",
+  "description": "A sophisticated English thesaurus with definitions, synonyms, antonyms, and word proximity readings.",
   "keywords": [
     "thesaurus",
     "dictionary",
