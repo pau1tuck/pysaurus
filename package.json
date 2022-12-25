@@ -1,0 +1,25 @@
+{
+  "name": "pysaurus",
+  "version": "0.1.0",
+  "description": "A sophisticated English thesaurus with synonyms, antonyms, and word proximity readings.",
+  "keywords": [
+    "thesaurus",
+    "dictionary",
+    "english",
+    "language",
+    "vocabulary"
+  ],
+  "homepage": "https://github.com/pau1tuck/pysaurus/README.md",
+  "licence": "MIT",
+  "author": {
+    "name": "Paul Tuck",
+    "email": "paul.tuck@oxon.org",
+    "url": "http://github.com/pau1tuck"
+  },
+  "main": "./src/",
+  "man": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pau1tuck/pysaurus"
+  }
+}
