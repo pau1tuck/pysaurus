@@ -4,14 +4,14 @@ from data.wordlist_0_1_0 import words, length
 def wordcount():
     return length
 
-# First check if the search term exists in the database
+# First check if the search term exists in the database:
 def check_for_word(word):
     if word not in words:
-        return "Not found"
+        return False
     else:
         retrieve_data(word)
 
-# If the search term exists return the full thesaurus payload
+# If the search term exists, return the full thesaurus payload:
 def retrieve_data(word):
     json_data = []
     thesaurus_data = []
@@ -25,3 +25,11 @@ def retrieve_data(word):
             thesaurus_data = entry["data"]
 
     return thesaurus_data
+
+def get_synonyms(word):
+    thesaurus_data = check_for_word(word)
+    if thesaurus_data == False:
+        return False
+    else:
+        for entry in thesaurus_data:
+            definition = {entry["definition"]: []}
