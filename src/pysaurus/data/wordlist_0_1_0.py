@@ -1,0 +1,2 @@
+words = []
+length = len(words)
