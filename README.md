@@ -7,3 +7,11 @@ The application currently provides definitions, synonyms and antonyms based on t
 Version 0.1.0 wordcount: 5,035 high frequency terms
 
 ## Usage
+
+    from pysaurus import synonyms
+
+    my_word = "write"
+
+    synonyms_dict = synonyms.get_synonyms(my_word)`
+
+The `synonyms_dict` variable will be a dictionary with the following structure:
