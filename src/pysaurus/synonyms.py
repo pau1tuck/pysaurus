@@ -3,7 +3,7 @@ from thesaurus import get_data
 def get_synonyms(word):
     thesaurus_data = get_data(word)
     if thesaurus_data == False:
-        return False
+        return None
     else:
         data = []
         for entry in thesaurus_data:
@@ -11,7 +11,7 @@ def get_synonyms(word):
             pos = entry["pos"]
             synonyms = []
             for synonym in entry["synonyms"]:
-                synonyms.append(synonym)
+                synonyms.append((synonym["term"], synonym["similarity"]))
             result = {
                 "term": word,
                 "definition": definition,
