@@ -4,7 +4,7 @@ from data.wordlist_0_1_0 import words, length
 def wordcount():
     return length
 
-# If the search term exists, return the full thesaurus payload:
+# If the search term exists, return the thesaurus payload:
 def get_data(word):
     if word not in words:
         return False
