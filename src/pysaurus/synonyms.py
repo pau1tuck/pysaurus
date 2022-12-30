@@ -1,6 +1,7 @@
 from thesaurus import get_data
 
 def get_synonyms(word):
+    word = 'academic'
     thesaurus_data = get_data(word)
     if thesaurus_data == False:
         return None
@@ -19,4 +20,5 @@ def get_synonyms(word):
                 "synonyms": synonyms
             }
             data.append(result)
+        print(data)
     return data

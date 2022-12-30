@@ -13,11 +13,14 @@ def get_data(word):
         thesaurus_data = []
         first_letter = word[0]
 
-        data = open("../data/thesauri/0_1_0/" + first_letter + ".json", "r")
+        data = open("./data/thesauri/0_1_0/" + first_letter + ".json", "r")
         json_data = json.load(data)
 
         for entry in json_data:
-            if entry["term"] == word:
-                thesaurus_data = entry["data"]
+                if entry["term"] == word:
+                    thesaurus_data = entry["data"]
 
+        print(thesaurus_data)
         return thesaurus_data
+
+get_data('academic')
