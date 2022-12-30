@@ -1,16 +1,16 @@
 # content of test_sample.py
-import pytest
+import unittest
 from pysaurus import synonyms
 
-class SynonymInputErrors:
+class FaultyInput(unittest.TestCase):
     nonsense_word = 'flumpalump'
     numerals = 123456
-
-    def get_synonyms(self,x):
-        return synonyms.get_synonyms(x)
+    non_English = '写'
 
     def test_nonsense(self):
-        assert self.get_synonyms(self.nonsense_word) == None
+        result = synonyms.get_synonyms(self.nonsense_word)
+        self.assertIsNone(result)
 
     def test_numerals(self):
-        assert self.get_synonyms(self.numerals) == None
+        result = synonyms.get_synonyms(self.non_English)
+        self.assertIsNone(result)
